@@ -1,944 +1,556 @@
-(4.11.2022) [20:37:04] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:37:08] Autorizační request přijat.
-(4.11.2022) [20:37:08] loginData přečtena.
-(4.11.2022) [20:37:08]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:37:08] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:37:08] Data poslána: dashinfo.json
-(4.11.2022) [20:37:40] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:37:40] Data poslána: dashinfo.json
-(4.11.2022) [20:37:42] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:37:46] Autorizační request přijat.
-(4.11.2022) [20:37:46] loginData přečtena.
-(4.11.2022) [20:37:46]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:37:46] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:37:46] Data poslána: dashinfo.json
-(4.11.2022) [20:38:04] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:38:05] Data poslána: dashinfo.json
-(4.11.2022) [20:38:06] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:38:17] Autorizační request přijat.
-(4.11.2022) [20:38:17] loginData přečtena.
-(4.11.2022) [20:38:17]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:39:19] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:39:23] Autorizační request přijat.
-(4.11.2022) [20:39:23] loginData přečtena.
-(4.11.2022) [20:39:23]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:40:09] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:40:09] Data poslána: dashinfo.json
-(4.11.2022) [20:40:11] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:40:31] Autorizační request přijat.
-(4.11.2022) [20:40:31] loginData přečtena.
-(4.11.2022) [20:40:31]  Uživatel adamzaoral se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:40:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:40:32] Data poslána: dashinfo.json
-(4.11.2022) [20:42:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:42:32] Data poslána: dashinfo.json
-(4.11.2022) [20:42:45] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:43:03] Autorizační request přijat.
-(4.11.2022) [20:43:03] loginData přečtena.
-(4.11.2022) [20:43:03]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:43:03] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:43:03] Data poslána: dashinfo.json
-(4.11.2022) [20:55:18] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:55:18] Data poslána: dashinfo.json
-(4.11.2022) [20:55:24] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:55:31] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:55:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:55:37] Data poslána: dashinfo.json
-(4.11.2022) [20:55:37] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:57:23] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:57:25] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:57:27] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:57:40] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:57:48] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:57:57] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:58:07] Autorizační request přijat.
-(4.11.2022) [20:58:07] loginData přečtena.
-(4.11.2022) [20:58:07]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [20:59:19] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:59:21] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [20:59:32] Autorizační request přijat.
-(4.11.2022) [20:59:32] loginData přečtena.
-(4.11.2022) [20:59:32]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:01:12] Autorizační request přijat.
-(4.11.2022) [21:01:12] loginData přečtena.
-(4.11.2022) [21:01:12]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:02:07] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:02:14] Autorizační request přijat.
-(4.11.2022) [21:02:14] loginData přečtena.
-(4.11.2022) [21:02:14]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:02:15] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:02:15] Data poslána: dashinfo.json
-(4.11.2022) [21:03:53] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:03:53] Data poslána: dashinfo.json
-(4.11.2022) [21:03:56] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:18:19] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:18:39] Autorizační request přijat.
-(4.11.2022) [21:18:39] loginData přečtena.
-(4.11.2022) [21:18:39]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:18:39] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:18:39] Data poslána: dashinfo.json
-(4.11.2022) [21:19:10] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:19:31] Autorizační request přijat.
-(4.11.2022) [21:19:31] loginData přečtena.
-(4.11.2022) [21:19:31]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:19:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:19:32] Data poslána: dashinfo.json
-(4.11.2022) [21:24:16] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:24:16] Data poslána: dashinfo.json
-(4.11.2022) [21:24:28] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:24:32] Autorizační request přijat.
-(4.11.2022) [21:24:32] loginData přečtena.
-(4.11.2022) [21:24:32]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:24:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:24:32] Data poslána: dashinfo.json
-(4.11.2022) [21:25:21] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:25:21] Data poslána: dashinfo.json
-(4.11.2022) [21:29:46] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:29:46] Data poslána: dashinfo.json
-(4.11.2022) [21:30:30] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:30:34] Autorizační request přijat.
-(4.11.2022) [21:30:34] loginData přečtena.
-(4.11.2022) [21:30:34]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:30:34] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:30:34] Data poslána: dashinfo.json
-(4.11.2022) [21:30:44] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:30:58] Autorizační request přijat.
-(4.11.2022) [21:30:58] loginData přečtena.
-(4.11.2022) [21:30:58]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:30:58] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:30:58] Data poslána: dashinfo.json
-(4.11.2022) [21:31:05] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:33:01] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:34:38] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:34:49] Autorizační request přijat.
-(4.11.2022) [21:34:49] loginData přečtena.
-(4.11.2022) [21:34:49]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:34:50] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:34:50] Data poslána: dashinfo.json
-(4.11.2022) [21:34:58] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:38:55] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:39:05] Autorizační request přijat.
-(4.11.2022) [21:39:05] loginData přečtena.
-(4.11.2022) [21:39:05]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:39:05] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:39:05] Data poslána: dashinfo.json
-(4.11.2022) [21:39:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:39:37] Autorizační request přijat.
-(4.11.2022) [21:39:37] loginData přečtena.
-(4.11.2022) [21:39:37]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:39:37] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:39:37] Data poslána: dashinfo.json
-(4.11.2022) [21:41:51] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:41:51] Data poslána: dashinfo.json
-(4.11.2022) [21:42:37] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:42:40] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:43:08] Autorizační request přijat.
-(4.11.2022) [21:43:08] loginData přečtena.
-(4.11.2022) [21:43:08]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:43:09] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:43:09] Data poslána: dashinfo.json
-(4.11.2022) [21:43:23] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:43:31] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:43:47] Autorizační request přijat.
-(4.11.2022) [21:43:47] loginData přečtena.
-(4.11.2022) [21:43:47]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:43:48] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:43:48] Data poslána: dashinfo.json
-(4.11.2022) [21:44:27] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:45:36] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:46:03] Autorizační request přijat.
-(4.11.2022) [21:46:03] loginData přečtena.
-(4.11.2022) [21:46:03]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:46:03] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:46:03] Data poslána: dashinfo.json
-(4.11.2022) [21:46:24] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:46:27] Autorizační request přijat.
-(4.11.2022) [21:46:27] loginData přečtena.
-(4.11.2022) [21:46:27]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:46:28] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:46:28] Data poslána: dashinfo.json
-(4.11.2022) [21:46:43] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:46:46] Autorizační request přijat.
-(4.11.2022) [21:46:46] loginData přečtena.
-(4.11.2022) [21:46:46]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:46:47] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:46:47] Data poslána: dashinfo.json
-(4.11.2022) [21:47:03] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:47:03] Data poslána: dashinfo.json
-(4.11.2022) [21:48:41] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:48:41] Data poslána: dashinfo.json
-(4.11.2022) [21:48:42] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:48:57] Autorizační request přijat.
-(4.11.2022) [21:48:57] loginData přečtena.
-(4.11.2022) [21:48:57]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:48:58] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:48:58] Data poslána: dashinfo.json
-(4.11.2022) [21:49:10] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:49:17] Autorizační request přijat.
-(4.11.2022) [21:49:17] loginData přečtena.
-(4.11.2022) [21:49:17]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:49:17] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:49:17] Data poslána: dashinfo.json
-(4.11.2022) [21:49:32] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:51:01] Autorizační request přijat.
-(4.11.2022) [21:51:01] loginData přečtena.
-(4.11.2022) [21:51:01]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:51:02] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:51:02] Data poslána: dashinfo.json
-(4.11.2022) [21:51:15] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:51:25] Autorizační request přijat.
-(4.11.2022) [21:51:25] loginData přečtena.
-(4.11.2022) [21:51:25]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [21:51:25] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [21:51:25] Data poslána: dashinfo.json
-(4.11.2022) [22:05:21] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [22:05:21] Data poslána: dashinfo.json
-(4.11.2022) [22:05:22] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [22:05:26] Autorizační request přijat.
-(4.11.2022) [22:05:26] loginData přečtena.
-(4.11.2022) [22:05:26]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [22:05:26] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [22:05:26] Data poslána: dashinfo.json
-(4.11.2022) [22:06:36] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [22:06:36] Data poslána: loggedusers.json
-(4.11.2022) [22:06:36] Data poslána: roles.json
-(4.11.2022) [22:06:39] Data poslána: dashinfo.json
-(4.11.2022) [22:11:29] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [22:11:29] Data poslána: dashinfo.json
-(4.11.2022) [22:13:51] Autorizační request přijat.
-(4.11.2022) [22:13:51] loginData přečtena.
-(4.11.2022) [22:13:51]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(4.11.2022) [22:13:52] Ping zaznamenán z IP Adresy ::1
-(4.11.2022) [22:13:52] Data poslána: dashinfo.json
-(4.11.2022) [22:13:52] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [10:34:28] ______________Inicializace MZISAPI______________
-(5.11.2022) [10:34:28] Vše funguje na localhost:8080
-(5.11.2022) [10:34:30] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [10:43:40] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [10:44:21] Autorizační request přijat.
-(5.11.2022) [10:44:21] loginData přečtena.
-(5.11.2022) [10:44:21]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [10:44:22] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [10:44:22] Data poslána: dashinfo.json
-(5.11.2022) [11:02:29] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:02:29] Zakázka poslána: 220001
-(5.11.2022) [11:02:29] Zakázka poslána: 220001
-(5.11.2022) [11:02:38] Zakázka poslána: 220001
-(5.11.2022) [11:07:48] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:07:48] Zakázka poslána: 220001
-(5.11.2022) [11:07:48] Zakázka poslána: 220001
-(5.11.2022) [11:07:49] Zakázka poslána: 220001
-(5.11.2022) [11:08:08] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:08:08] Zakázka poslána: 220001
-(5.11.2022) [11:08:08] Zakázka poslána: 220001
-(5.11.2022) [11:08:10] Zakázka poslána: 220001
-(5.11.2022) [11:18:47] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:18:47] Zakázka poslána: 220001
-(5.11.2022) [11:18:47] Zakázka poslána: 220001
-(5.11.2022) [11:19:00] Zakázka poslána: 220001
-(5.11.2022) [11:23:51] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:23:51] Zakázka poslána: 220001
-(5.11.2022) [11:23:51] Zakázka poslána: 220001
-(5.11.2022) [11:23:53] Template poslán: optpc.json
-(5.11.2022) [11:24:10] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
-(5.11.2022) [11:24:10] Zakázka poslána: 220001
-(5.11.2022) [11:24:10] Zakázka poslána: 220001
-(5.11.2022) [11:27:08] Template poslán: optpc.json
-(5.11.2022) [11:27:11] Template poslán: optpc.json
-(5.11.2022) [11:27:15] Template poslán: optpc.json
-(5.11.2022) [11:27:30] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:27:30] Data poslána: dashinfo.json
-(5.11.2022) [11:27:32] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:27:32] Zakázka poslána: 220001
-(5.11.2022) [11:27:32] Zakázka poslána: 220001
-(5.11.2022) [11:27:33] Zakázka poslána: 220001
-(5.11.2022) [11:27:39] Zakázka poslána: 220001
-(5.11.2022) [11:27:42] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:27:42] Data poslána: dashinfo.json
-(5.11.2022) [11:28:00] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:28:00] Data poslána: loggedusers.json
-(5.11.2022) [11:28:00] Data poslána: roles.json
-(5.11.2022) [11:28:15] Data poslána: dashinfo.json
-(5.11.2022) [11:28:29] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [11:28:54] Autorizační request přijat.
-(5.11.2022) [11:28:54] loginData přečtena.
-(5.11.2022) [11:28:54]  Uživatel adamzaoral se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [11:28:55] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [11:28:55] Data poslána: dashinfo.json
-(5.11.2022) [11:28:57] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:28:57] Data poslána: loggedusers.json
-(5.11.2022) [11:28:57] Data poslána: roles.json
-(5.11.2022) [11:29:03] Data poslána: dashinfo.json
-(5.11.2022) [11:29:05] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [11:29:07] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:29:07] Data poslána: loggedusers.json
-(5.11.2022) [11:29:07] Data poslána: roles.json
-(5.11.2022) [11:29:09] Data poslána: dashinfo.json
-(5.11.2022) [11:29:38] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:29:38] Data poslána: loggedusers.json
-(5.11.2022) [11:29:38] Data poslána: roles.json
-(5.11.2022) [11:31:59] Data poslána: dashinfo.json
-(5.11.2022) [11:32:09] Autorizační request přijat.
-(5.11.2022) [11:32:09] loginData přečtena.
-(5.11.2022) [11:32:09]  Uživatel letadlo se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [11:32:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [11:32:10] Data poslána: dashinfo.json
-(5.11.2022) [11:32:37] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [11:32:37] Data poslána: loggedusers.json
-(5.11.2022) [11:32:37] Data poslána: roles.json
-(5.11.2022) [11:32:43] Data poslána: dashinfo.json
-(5.11.2022) [11:32:58] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [11:33:04] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:33:04] Zakázka poslána: 220001
-(5.11.2022) [11:33:05] Zakázka poslána: 220001
-(5.11.2022) [11:33:09] Zakázka poslána: 220001
-(5.11.2022) [11:33:14] Zakázka poslána: 220001
-(5.11.2022) [11:33:14] Zakázka poslána: 220001
-(5.11.2022) [11:33:18] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:33:18] Data poslána: dashinfo.json
-(5.11.2022) [11:33:22] Ping zaznamenán z IP Adresy ::1
-(5.11.2022) [11:33:22] Zakázka poslána: 220001
-(5.11.2022) [11:33:22] Zakázka poslána: 220001
-(5.11.2022) [11:33:47] Zakázka poslána: 220001
-(5.11.2022) [11:33:59] Zakázka poslána: 220001
-(5.11.2022) [11:34:05] Zakázka poslána: 220001
-(5.11.2022) [11:34:15] Zakázka poslána: 220001
-(5.11.2022) [11:36:30] Zakázka poslána: 220001
-(5.11.2022) [11:36:32] Zakázka poslána: 220001
-(5.11.2022) [11:36:32] Zakázka poslána: 220001
-(5.11.2022) [11:36:33] Zakázka poslána: 220001
-(5.11.2022) [11:36:33] Zakázka poslána: 220001
-(5.11.2022) [11:36:37] Zakázka poslána: 220001
-(5.11.2022) [11:36:37] Zakázka poslána: 220001
-(5.11.2022) [11:36:47] Zakázka poslána: 220001
-(5.11.2022) [21:11:48] ______________Inicializace MZISAPI______________
-(5.11.2022) [21:11:48] Vše funguje na localhost:8080
-(5.11.2022) [21:12:00] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:12:06] Autorizační request přijat.
-(5.11.2022) [21:12:06] loginData přečtena.
-(5.11.2022) [21:12:07]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [21:12:07] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:12:07] Data poslána: dashinfo.json
-(5.11.2022) [21:12:09] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:12:09] Zakázka poslána: 220001
-(5.11.2022) [21:12:09] Zakázka poslána: 220001
-(5.11.2022) [21:12:38] Zakázka poslána: 220001
-(5.11.2022) [21:14:35] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:14:36] Zakázka poslána: 220001
-(5.11.2022) [21:14:36] Zakázka poslána: 220001
-(5.11.2022) [21:16:15] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:16:15] Zakázka poslána: 220001
-(5.11.2022) [21:16:15] Zakázka poslána: 220001
-(5.11.2022) [21:16:22] Zakázka poslána: 220001
-(5.11.2022) [21:18:50] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:18:50] Zakázka poslána: 220001
-(5.11.2022) [21:18:50] Zakázka poslána: 220001
-(5.11.2022) [21:18:51] Zakázka poslána: 220001
-(5.11.2022) [21:20:44] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:20:44] Zakázka poslána: 220001
-(5.11.2022) [21:20:44] Zakázka poslána: 220001
-(5.11.2022) [21:20:52] Zakázka poslána: 220001
-(5.11.2022) [21:22:08] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:22:08] Zakázka poslána: 220001
-(5.11.2022) [21:22:08] Zakázka poslána: 220001
-(5.11.2022) [21:26:50] Zakázka poslána: 220001
-(5.11.2022) [21:26:58] Zakázka poslána: 220001
-(5.11.2022) [21:28:46] Zakázka poslána: 220001
-(5.11.2022) [21:37:12] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:37:12] Zakázka poslána: 220001
-(5.11.2022) [21:37:12] Zakázka poslána: 220001
-(5.11.2022) [21:55:27] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:55:27] Zakázka poslána: 220001
-(5.11.2022) [21:55:27] Zakázka poslána: 220001
-(5.11.2022) [21:57:18] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:57:18] Zakázka poslána: 220001
-(5.11.2022) [21:57:18] Zakázka poslána: 220001
-(5.11.2022) [21:57:24] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:57:24] Data poslána: dashinfo.json
-(5.11.2022) [21:57:27] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:57:33] Autorizační request přijat.
-(5.11.2022) [21:57:33] loginData přečtena.
-(5.11.2022) [21:57:33]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [21:57:33] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [21:57:33] Data poslána: dashinfo.json
-(5.11.2022) [22:03:07] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:03:07] Data poslána: dashinfo.json
-(5.11.2022) [22:03:46] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:03:46] Data poslána: dashinfo.json
-(5.11.2022) [22:03:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:04:07] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:04:07] Data poslána: loggedusers.json
-(5.11.2022) [22:04:07] Data poslána: roles.json
-(5.11.2022) [22:04:07] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:04:25] Autorizační request přijat.
-(5.11.2022) [22:04:25] loginData přečtena.
-(5.11.2022) [22:04:25]  Uživatel letadlo se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [22:04:25] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:04:25] Data poslána: dashinfo.json
-(5.11.2022) [22:04:34] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:04:34] Data poslána: loggedusers.json
-(5.11.2022) [22:04:34] Data poslána: roles.json
-(5.11.2022) [22:07:22] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:07:22] Data poslána: loggedusers.json
-(5.11.2022) [22:07:22] Data poslána: roles.json
-(5.11.2022) [22:07:22] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:07:34] Autorizační request přijat.
-(5.11.2022) [22:07:34] loginData přečtena.
-(5.11.2022) [22:07:34]  Uživatel adamzaoral se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [22:07:34] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:07:34] Data poslána: dashinfo.json
-(5.11.2022) [22:07:40] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:07:46] Autorizační request přijat.
-(5.11.2022) [22:07:46] loginData přečtena.
-(5.11.2022) [22:07:46]  Uživatel letadlo se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [22:07:47] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:07:47] Data poslána: dashinfo.json
-(5.11.2022) [22:07:51] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:07:51] Data poslána: loggedusers.json
-(5.11.2022) [22:07:51] Data poslána: roles.json
-(5.11.2022) [22:07:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:09:34] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:09:57] Autorizační request přijat.
-(5.11.2022) [22:09:57] loginData přečtena.
-(5.11.2022) [22:09:57]  Uživatel letadlo se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [22:09:57] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:09:58] Data poslána: dashinfo.json
-(5.11.2022) [22:10:04] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:10:04] Data poslána: loggedusers.json
-(5.11.2022) [22:10:04] Data poslána: roles.json
-(5.11.2022) [22:10:04] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:10:39] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:26:04] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:27:29] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:27:52] Autorizační request přijat.
-(5.11.2022) [22:27:52] loginData přečtena.
-(5.11.2022) [22:27:52]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(5.11.2022) [22:27:53] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:27:53] Data poslána: dashinfo.json
-(5.11.2022) [22:27:55] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:27:55] Zakázka poslána: 220001
-(5.11.2022) [22:27:55] Zakázka poslána: 220001
-(5.11.2022) [22:27:56] Zakázka poslána: 220001
-(5.11.2022) [22:28:02] Zakázka poslána: 220001
-(5.11.2022) [22:28:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:28:52] Zakázka poslána: 220001
-(5.11.2022) [22:28:52] Zakázka poslána: 220001
-(5.11.2022) [22:28:58] Zakázka poslána: 220001
-(5.11.2022) [22:29:01] Zakázka poslána: 220001
-(5.11.2022) [22:29:41] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:29:41] Zakázka poslána: 220001
-(5.11.2022) [22:29:41] Zakázka poslána: 220001
-(5.11.2022) [22:29:44] Zakázka poslána: 220001
-(5.11.2022) [22:29:50] Zakázka poslána: 220001
-(5.11.2022) [22:30:33] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:30:33] Zakázka poslána: 220001
-(5.11.2022) [22:30:33] Zakázka poslána: 220001
-(5.11.2022) [22:31:05] Zakázka poslána: 220001
-(5.11.2022) [22:31:09] Zakázka poslána: 220001
-(5.11.2022) [22:31:10] Zakázka poslána: 220001
-(5.11.2022) [22:31:43] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:31:43] Zakázka poslána: 220001
-(5.11.2022) [22:31:43] Zakázka poslána: 220001
-(5.11.2022) [22:31:55] Zakázka poslána: 220001
-(5.11.2022) [22:32:00] Zakázka poslána: 220001
-(5.11.2022) [22:32:00] Zakázka poslána: 220001
-(5.11.2022) [22:32:27] Zakázka poslána: 220001
-(5.11.2022) [22:33:05] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(5.11.2022) [22:33:06] Zakázka poslána: 220001
-(5.11.2022) [22:33:06] Zakázka poslána: 220001
-(5.11.2022) [22:33:23] Zakázka poslána: 220001
-(5.11.2022) [22:33:30] Zakázka poslána: 220001
-(5.11.2022) [22:33:30] Zakázka poslána: 220001
-(5.11.2022) [22:33:40] Zakázka poslána: 220001
-(5.11.2022) [22:33:40] Zakázka poslána: 220001
-(5.11.2022) [22:33:56] Zakázka poslána: 220001
-(6.11.2022) [16:36:53] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(6.11.2022) [16:36:53] Data poslána: dashinfo.json
-(6.11.2022) [16:36:55] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(6.11.2022) [16:36:55] Data poslána: loggedusers.json
-(6.11.2022) [16:36:55] Data poslána: roles.json
-(6.11.2022) [16:37:01] Data poslána: dashinfo.json
-(1.11.2022) [21:02:55] ______________Inicializace MZISAPI______________
-(1.11.2022) [21:02:55] Vše funguje na localhost:8080
-(1.11.2022) [21:03:19] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:03:27] Autorizační request přijat.
-(1.11.2022) [21:03:27] loginData přečtena.
-(1.11.2022) [21:03:27]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(1.11.2022) [21:03:27] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:03:27] Data poslána: dashinfo.json
-(1.11.2022) [21:03:29] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:03:30] Data poslána: loggedusers.json
-(1.11.2022) [21:03:30] Data poslána: roles.json
-(1.11.2022) [21:04:47] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:04:47] Data poslána: loggedusers.json
-(1.11.2022) [21:04:47] Data poslána: roles.json
-(1.11.2022) [21:05:00] Data poslána: dashinfo.json
-(1.11.2022) [21:08:03] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:08:03] Data poslána: dashinfo.json
-(1.11.2022) [21:09:34] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:09:34] Data poslána: dashinfo.json
-(1.11.2022) [21:10:38] Data poslána: loggedusers.json
-(1.11.2022) [21:10:38] Data poslána: roles.json
-(1.11.2022) [21:10:40] Data poslána: dashinfo.json
-(1.11.2022) [21:11:25] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:11:25] Data poslána: dashinfo.json
-(1.11.2022) [21:11:30] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:11:30] Data poslána: dashinfo.json
-(1.11.2022) [21:15:38] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:15:38] Data poslána: dashinfo.json
-(1.11.2022) [21:16:49] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:16:49] Zakázka poslána: 220001
-(1.11.2022) [21:16:49] Zakázka poslána: 220001
-(1.11.2022) [21:16:50] Template poslán: optpc.json
-(1.11.2022) [21:18:47] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:18:47] Zakázka poslána: 220001
-(1.11.2022) [21:18:47] Zakázka poslána: 220001
-(1.11.2022) [21:19:32] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:19:32] Data poslána: dashinfo.json
-(1.11.2022) [21:21:56] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:21:57] Data poslána: dashinfo.json
-(1.11.2022) [21:23:40] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:23:40] Data poslána: dashinfo.json
-(1.11.2022) [21:24:24] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:24:24] Data poslána: dashinfo.json
-(1.11.2022) [21:30:45] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:30:45] Data poslána: dashinfo.json
-(1.11.2022) [21:31:20] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:31:20] Data poslána: dashinfo.json
-(1.11.2022) [21:32:12] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:32:12] Data poslána: dashinfo.json
-(1.11.2022) [21:33:56] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:33:56] Data poslána: dashinfo.json
-(1.11.2022) [21:34:00] Data poslána: adressbook.json
-(1.11.2022) [21:34:48] Data poslána: adressbook.json
-(1.11.2022) [21:38:49] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:38:49] Data poslána: dashinfo.json
-(1.11.2022) [21:39:22] Data poslána: adressbook.json
-(1.11.2022) [21:41:26] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:41:26] Data poslána: dashinfo.json
-(1.11.2022) [21:41:29] Data poslána: adressbook.json
-(1.11.2022) [21:41:48] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:41:49] Data poslána: dashinfo.json
-(1.11.2022) [21:41:53] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:41:53] Data poslána: dashinfo.json
-(1.11.2022) [21:41:55] Data poslána: adressbook.json
-(1.11.2022) [21:42:55] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:42:55] Data poslána: dashinfo.json
-(1.11.2022) [21:42:58] Data poslána: adressbook.json
-(1.11.2022) [21:43:43] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:43:43] Data poslána: dashinfo.json
-(1.11.2022) [21:43:46] Data poslána: adressbook.json
-(1.11.2022) [21:43:59] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:43:59] Data poslána: dashinfo.json
-(1.11.2022) [21:44:06] Data poslána: adressbook.json
-(1.11.2022) [21:47:44] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:47:44] Data poslána: dashinfo.json
-(1.11.2022) [21:47:46] Data poslána: adressbook.json
-(1.11.2022) [21:49:53] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:49:53] Zakázka poslána: 220001
-(1.11.2022) [21:49:53] Zakázka poslána: 220001
-(1.11.2022) [21:49:54] Zakázka poslána: 220001
-(1.11.2022) [21:49:55] Zakázka poslána: 220001
-(1.11.2022) [21:49:59] Zakázka poslána: 220001
-(1.11.2022) [21:49:59] Zakázka poslána: 220001
-(1.11.2022) [21:50:00] Template poslán: optpc.json
-(1.11.2022) [21:53:57] Zakázka poslána: 220001
-(1.11.2022) [21:53:57] Zakázka poslána: 220001
-(1.11.2022) [21:53:58] Zakázka poslána: 220001
-(1.11.2022) [21:53:58] Zakázka poslána: 220001
-(1.11.2022) [21:53:59] Template poslán: optpc.json
-(1.11.2022) [21:54:37] Template poslán: optpc.json
-(1.11.2022) [21:54:40] Zakázka poslána: 220001
-(1.11.2022) [21:54:43] Zakázka poslána: 220001
-(1.11.2022) [21:54:55] Zakázka poslána: 220001
-(1.11.2022) [21:54:56] Zakázka poslána: 220001
-(1.11.2022) [21:54:56] Zakázka poslána: 220001
-(1.11.2022) [21:55:05] Zakázka poslána: 220001
-(1.11.2022) [21:55:08] Zakázka poslána: 220001
-(1.11.2022) [21:55:59] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:55:59] Data poslána: dashinfo.json
-(1.11.2022) [21:56:02] Data poslána: adressbook.json
-(1.11.2022) [21:57:47] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [21:57:48] Data poslána: dashinfo.json
-(1.11.2022) [21:57:49] Data poslána: adressbook.json
-(1.11.2022) [22:06:03] Ping zaznamenán z IP Adresy ::1
-(1.11.2022) [22:06:16] Autorizační request přijat.
-(1.11.2022) [22:06:16] loginData přečtena.
-(1.11.2022) [22:06:16]  Uživatel letadlo se snaží přihlásit. Povedlo se?: true
-(1.11.2022) [22:06:17] Ping zaznamenán z IP Adresy ::1
-(1.11.2022) [22:06:17] Data poslána: dashinfo.json
-(1.11.2022) [22:07:38] Data poslána: adressbook.json
-(1.11.2022) [22:12:03] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:12:03] Zakázka poslána: 220001
-(1.11.2022) [22:12:03] Zakázka poslána: 220001
-(1.11.2022) [22:12:07] Zakázka poslána: 220001
-(1.11.2022) [22:12:07] Zakázka poslána: 220001
-(1.11.2022) [22:12:08] Template poslán: optpc.json
-(1.11.2022) [22:12:40] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:12:40] Data poslána: dashinfo.json
-(1.11.2022) [22:12:41] Data poslána: adressbook.json
-(1.11.2022) [22:14:49] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:14:49] Data poslána: dashinfo.json
-(1.11.2022) [22:14:51] Data poslána: adressbook.json
-(1.11.2022) [22:15:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:15:52] Data poslána: dashinfo.json
-(1.11.2022) [22:15:58] Data poslána: adressbook.json
-(1.11.2022) [22:16:20] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:16:20] Zakázka poslána: 220001
-(1.11.2022) [22:16:20] Zakázka poslána: 220001
-(1.11.2022) [22:16:21] Template poslán: optpc.json
-(1.11.2022) [22:16:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:16:52] Data poslána: dashinfo.json
-(1.11.2022) [22:16:54] Data poslána: adressbook.json
-(1.11.2022) [22:19:03] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:19:03] Data poslána: dashinfo.json
-(1.11.2022) [22:19:08] Data poslána: adressbook.json
-(1.11.2022) [22:19:36] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:19:36] Data poslána: dashinfo.json
-(1.11.2022) [22:19:38] Data poslána: adressbook.json
-(1.11.2022) [22:23:15] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:23:15] Zakázka poslána: 220001
-(1.11.2022) [22:23:15] Zakázka poslána: 220001
-(1.11.2022) [22:23:21] Zakázka poslána: 220001
-(1.11.2022) [22:23:22] Zakázka poslána: 220001
-(1.11.2022) [22:28:08] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:28:08] Zakázka poslána: 220001
-(1.11.2022) [22:28:08] Zakázka poslána: 220001
-(1.11.2022) [22:28:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:28:10] Data poslána: dashinfo.json
-(1.11.2022) [22:28:12] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:28:12] Zakázka poslána: 220001
-(1.11.2022) [22:28:12] Zakázka poslána: 220001
-(1.11.2022) [22:28:14] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:28:14] Data poslána: dashinfo.json
-(1.11.2022) [22:28:15] Data poslána: adressbook.json
-(1.11.2022) [22:28:37] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(1.11.2022) [22:28:37] Data poslána: dashinfo.json
-(1.11.2022) [22:28:40] Data poslána: adressbook.json
-(2.11.2022) [19:16:33] ______________Inicializace MZISAPI______________
-(2.11.2022) [19:16:33] Vše funguje na localhost:8080
-(2.11.2022) [19:17:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:17:20] Autorizační request přijat.
-(2.11.2022) [19:17:20] loginData přečtena.
-(2.11.2022) [19:17:20]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(2.11.2022) [19:17:21] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:17:21] Data poslána: dashinfo.json
-(2.11.2022) [19:17:23] Data poslána: adressbook.json
-(2.11.2022) [19:22:07] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:22:07] Data poslána: dashinfo.json
-(2.11.2022) [19:24:05] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:24:05] Data poslána: dashinfo.json
-(2.11.2022) [19:28:26] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:28:26] Data poslána: dashinfo.json
-(2.11.2022) [19:31:01] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:31:01] Data poslána: dashinfo.json
-(2.11.2022) [19:31:05] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:31:05] Data poslána: dashinfo.json
-(2.11.2022) [19:31:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:31:10] Data poslána: dashinfo.json
-(2.11.2022) [19:31:32] Data poslána: adressbook.json
-(2.11.2022) [19:32:53] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [19:32:53] Data poslána: dashinfo.json
-(2.11.2022) [19:33:26] Data poslána: adressbook.json
-(2.11.2022) [20:09:35] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:09:35] Data poslána: dashinfo.json
-(2.11.2022) [20:09:40] Data poslána: adressbook.json
-(2.11.2022) [20:10:09] Autorizační request přijat.
-(2.11.2022) [20:10:09] loginData přečtena.
-(2.11.2022) [20:10:09]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(2.11.2022) [20:10:09] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:10:09] Data poslána: dashinfo.json
-(2.11.2022) [20:12:12] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:12:12] Data poslána: dashinfo.json
-(2.11.2022) [20:15:54] Data poslána: adressbook.json
-(2.11.2022) [20:16:42] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:16:42] Data poslána: dashinfo.json
-(2.11.2022) [20:16:46] Data poslána: adressbook.json
-(2.11.2022) [20:25:42] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:25:43] Data poslána: dashinfo.json
-(2.11.2022) [20:27:36] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:27:36] Data poslána: dashinfo.json
-(2.11.2022) [20:29:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:29:10] Data poslána: dashinfo.json
-(2.11.2022) [20:29:17] Data poslána: adressbook.json
-(2.11.2022) [20:30:18] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:30:18] Data poslána: dashinfo.json
-(2.11.2022) [20:30:22] Data poslána: adressbook.json
-(2.11.2022) [20:31:03] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:31:03] Data poslána: dashinfo.json
-(2.11.2022) [20:31:08] Data poslána: adressbook.json
-(2.11.2022) [20:31:32] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:31:32] Data poslána: dashinfo.json
-(2.11.2022) [20:31:38] Data poslána: adressbook.json
-(2.11.2022) [20:32:30] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:32:30] Data poslána: dashinfo.json
-(2.11.2022) [20:32:33] Data poslána: adressbook.json
-(2.11.2022) [20:32:55] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:32:55] Data poslána: dashinfo.json
-(2.11.2022) [20:33:14] Data poslána: adressbook.json
-(2.11.2022) [20:35:50] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:35:50] Data poslána: dashinfo.json
-(2.11.2022) [20:37:57] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:37:57] Data poslána: dashinfo.json
-(2.11.2022) [20:38:01] Data poslána: adressbook.json
-(2.11.2022) [20:39:30] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:39:30] Data poslána: dashinfo.json
-(2.11.2022) [20:39:48] Data poslána: adressbook.json
-(2.11.2022) [20:40:04] Data poslána: adressbook.json
-(2.11.2022) [20:42:16] Data poslána: adressbook.json
-(2.11.2022) [20:43:24] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:43:24] Data poslána: dashinfo.json
-(2.11.2022) [20:43:43] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:43:43] Data poslána: dashinfo.json
-(2.11.2022) [20:44:10] Data poslána: adressbook.json
-(2.11.2022) [20:44:11] Data poslána: adressbook.json
-(2.11.2022) [20:44:13] Data poslána: adressbook.json
-(2.11.2022) [20:45:23] Data poslána: adressbook.json
-(2.11.2022) [20:45:43] Data poslána: adressbook.json
-(2.11.2022) [20:48:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:48:10] Data poslána: dashinfo.json
-(2.11.2022) [20:48:13] Data poslána: adressbook.json
-(2.11.2022) [20:48:40] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:48:40] Data poslána: dashinfo.json
-(2.11.2022) [20:50:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:50:54] Data poslána: dashinfo.json
-(2.11.2022) [20:50:59] Data poslána: adressbook.json
-(2.11.2022) [20:52:20] Data poslána: adressbook.json
-(2.11.2022) [20:55:51] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:55:51] Data poslána: dashinfo.json
-(2.11.2022) [20:55:56] Data poslána: adressbook.json
-(2.11.2022) [20:58:34] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:58:34] Data poslána: dashinfo.json
-(2.11.2022) [20:59:04] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [20:59:04] Data poslána: dashinfo.json
-(2.11.2022) [20:59:07] Data poslána: adressbook.json
-(2.11.2022) [21:00:01] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:00:01] Data poslána: dashinfo.json
-(2.11.2022) [21:00:18] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:00:18] Data poslána: dashinfo.json
-(2.11.2022) [21:00:21] Data poslána: adressbook.json
-(2.11.2022) [21:01:37] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:01:37] Data poslána: dashinfo.json
-(2.11.2022) [21:01:42] Data poslána: adressbook.json
-(2.11.2022) [21:02:37] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:02:37] Data poslána: dashinfo.json
-(2.11.2022) [21:02:40] Data poslána: adressbook.json
-(2.11.2022) [21:16:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:16:54] Data poslána: dashinfo.json
-(2.11.2022) [21:21:59] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:21:59] Data poslána: dashinfo.json
-(2.11.2022) [21:23:58] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:23:58] Data poslána: dashinfo.json
-(2.11.2022) [21:24:15] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [21:24:15] Data poslána: dashinfo.json
-(2.11.2022) [21:33:27] Data poslána: adressbook.json
-(2.11.2022) [21:43:45] Data poslána: adressbook.json
-(2.11.2022) [22:01:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:01:52] Data poslána: dashinfo.json
-(2.11.2022) [22:02:03] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:02:03] Data poslána: dashinfo.json
-(2.11.2022) [22:05:15] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:05:15] Data poslána: dashinfo.json
-(2.11.2022) [22:06:32] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:06:33] Data poslána: dashinfo.json
-(2.11.2022) [22:07:06] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:07:06] Data poslána: dashinfo.json
-(2.11.2022) [22:08:19] Data poslána: adressbook.json
-(2.11.2022) [22:15:02] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:15:02] Data poslána: dashinfo.json
-(2.11.2022) [22:17:24] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(2.11.2022) [22:17:24] Data poslána: dashinfo.json
-(2.11.2022) [22:17:34] ______________Inicializace MZISAPI______________
-(2.11.2022) [22:17:34] Vše funguje na localhost:8080
-(2.11.2022) [22:17:41] Data poslána: adressbook.json
-(2.11.2022) [22:18:26] ______________Inicializace MZISAPI______________
-(2.11.2022) [22:18:26] Vše funguje na localhost:8080
-(3.11.2022) [12:38:50] ______________Inicializace MZISAPI______________
-(3.11.2022) [12:38:50] Vše funguje na localhost:8080
-(3.11.2022) [12:38:59] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:39:15] Autorizační request přijat.
-(3.11.2022) [12:39:15] loginData přečtena.
-(3.11.2022) [12:39:15]  Uživatel l se snaží přihlásit. Povedlo se?: true
-(3.11.2022) [12:39:16] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:39:16] Data poslána: dashinfo.json
-(3.11.2022) [12:39:53] Data poslána: adressbook.json
-(3.11.2022) [12:43:04] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:43:04] Data poslána: dashinfo.json
-(3.11.2022) [12:43:07] Data poslána: adressbook.json
-(3.11.2022) [12:43:30] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:43:30] Data poslána: dashinfo.json
-(3.11.2022) [12:43:48] Data poslána: adressbook.json
-(3.11.2022) [12:45:49] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:45:49] Data poslána: loggedusers.json
-(3.11.2022) [12:45:49] Data poslána: roles.json
-(3.11.2022) [12:45:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:45:54] Data poslána: loggedusers.json
-(3.11.2022) [12:45:54] Data poslána: roles.json
-(3.11.2022) [12:46:00] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:46:00] Data poslána: dashinfo.json
-(3.11.2022) [12:47:47] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:47:47] Data poslána: dashinfo.json
-(3.11.2022) [12:48:48] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:48:48] Data poslána: dashinfo.json
-(3.11.2022) [12:51:52] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:51:52] Data poslána: dashinfo.json
-(3.11.2022) [12:52:12] Data poslána: adressbook.json
-(3.11.2022) [12:59:33] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [12:59:34] Data poslána: dashinfo.json
-(3.11.2022) [12:59:39] Data poslána: adressbook.json
-(3.11.2022) [13:00:30] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:00:30] Data poslána: dashinfo.json
-(3.11.2022) [13:00:35] Data poslána: adressbook.json
-(3.11.2022) [13:00:57] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:00:57] Data poslána: dashinfo.json
-(3.11.2022) [13:01:09] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:01:10] Data poslána: dashinfo.json
-(3.11.2022) [13:01:12] Data poslána: adressbook.json
-(3.11.2022) [13:02:29] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:02:30] Data poslána: dashinfo.json
-(3.11.2022) [13:02:34] Data poslána: adressbook.json
-(3.11.2022) [13:12:37] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:12:37] Data poslána: dashinfo.json
-(3.11.2022) [13:12:49] Data poslána: adressbook.json
-(3.11.2022) [13:17:14] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:17:14] Data poslána: dashinfo.json
-(3.11.2022) [13:28:36] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:28:37] Data poslána: dashinfo.json
-(3.11.2022) [13:28:42] Data poslána: adressbook.json
-(3.11.2022) [13:29:29] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:29:29] Data poslána: dashinfo.json
-(3.11.2022) [13:29:32] Data poslána: adressbook.json
-(3.11.2022) [13:29:33] Data poslána: adressbook.json
-(3.11.2022) [13:29:46] Data poslána: adressbook.json
-(3.11.2022) [13:32:48] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:32:48] Data poslána: dashinfo.json
-(3.11.2022) [13:41:24] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:41:24] Data poslána: dashinfo.json
-(3.11.2022) [13:41:33] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:41:34] Data poslána: dashinfo.json
-(3.11.2022) [13:42:34] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:42:34] Data poslána: dashinfo.json
-(3.11.2022) [13:42:37] Data poslána: adressbook.json
-(3.11.2022) [13:42:42] Data poslána: adressbook.json
-(3.11.2022) [13:43:46] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:43:47] Data poslána: dashinfo.json
-(3.11.2022) [13:43:49] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:54] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:55] Data poslána: adressbook.json
-(3.11.2022) [13:43:58] Data poslána: adressbook.json
-(3.11.2022) [13:44:03] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:44:04] Data poslána: dashinfo.json
-(3.11.2022) [13:45:33] Data poslána: adressbook.json
-(3.11.2022) [13:46:10] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:46:10] Data poslána: dashinfo.json
-(3.11.2022) [13:56:05] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [13:56:05] Data poslána: dashinfo.json
-(3.11.2022) [13:56:08] Data poslána: adressbook.json
-(3.11.2022) [13:56:10] Data poslána: adressbook.json
-(3.11.2022) [13:56:11] Data poslána: adressbook.json
-(3.11.2022) [13:56:11] Data poslána: adressbook.json
-(3.11.2022) [13:56:11] Data poslána: adressbook.json
-(3.11.2022) [13:56:11] Data poslána: adressbook.json
-(3.11.2022) [13:57:24] Data poslána: adressbook.json
-(3.11.2022) [13:57:27] Data poslána: adressbook.json
-(3.11.2022) [13:57:30] Data poslána: adressbook.json
-(3.11.2022) [13:57:34] Data poslána: adressbook.json
-(3.11.2022) [13:58:59] Data poslána: adressbook.json
-(3.11.2022) [14:07:00] Data poslána: adressbook.json
-(3.11.2022) [14:07:18] Data poslána: adressbook.json
-(3.11.2022) [14:07:21] Data poslána: adressbook.json
-(3.11.2022) [14:07:25] Data poslána: adressbook.json
-(3.11.2022) [14:08:00] Data poslána: adressbook.json
-(3.11.2022) [14:08:23] Data poslána: adressbook.json
-(3.11.2022) [14:11:11] Data poslána: adressbook.json
-(3.11.2022) [14:17:48] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [14:17:48] Data poslána: dashinfo.json
-(3.11.2022) [14:17:53] Data poslána: adressbook.json
-(3.11.2022) [14:17:55] Data poslána: adressbook.json
-(3.11.2022) [14:18:25] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [14:18:26] Data poslána: dashinfo.json
-(3.11.2022) [14:18:29] Data poslána: adressbook.json
-(3.11.2022) [14:18:31] Data poslána: adressbook.json
-(3.11.2022) [14:18:48] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [14:18:48] Data poslána: dashinfo.json
-(3.11.2022) [14:18:50] Data poslána: adressbook.json
-(3.11.2022) [14:18:52] Data poslána: adressbook.json
-(3.11.2022) [14:19:25] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [14:19:25] Data poslána: dashinfo.json
-(3.11.2022) [14:19:28] Data poslána: adressbook.json
-(3.11.2022) [14:19:30] Data poslána: adressbook.json
-(3.11.2022) [16:07:52] ______________Inicializace MZISAPI______________
-(3.11.2022) [16:07:52] Vše funguje na localhost:8080
-(3.11.2022) [16:24:49] ______________Inicializace MZISAPI______________
-(3.11.2022) [16:24:49] Vše funguje na localhost:8080
-(3.11.2022) [16:46:35] ______________Inicializace MZISAPI______________
-(3.11.2022) [16:46:35] Vše funguje na localhost:8080
-(3.11.2022) [16:46:35] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:48:45] ______________Inicializace MZISAPI______________
-(3.11.2022) [16:48:45] Vše funguje na localhost:8080
-(3.11.2022) [16:48:45] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:48:45] Data poslána: dashinfo.json
-(3.11.2022) [16:48:45] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:48:45] Data poslána: loggedusers.json
-(3.11.2022) [16:48:45] Data poslána: roles.json
-(3.11.2022) [16:48:45] Data poslána: dashinfo.json
-(3.11.2022) [16:48:45] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:48:45] Zakázka poslána: 220001
-(3.11.2022) [16:48:45] Zakázka poslána: 220001
-(3.11.2022) [16:48:45] Zakázka poslána: 220001
-(3.11.2022) [16:48:45] Zakázka poslána: 220001
-(3.11.2022) [16:48:45] Zakázka poslána: 220001
-(3.11.2022) [16:48:45] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] ______________Inicializace MZISAPI______________
-(3.11.2022) [16:53:54] Vše funguje na localhost:8080
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:53:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
-(3.11.2022) [16:53:54] Zakázka poslána: 220001
+(2.1.2023) [12:49:04] Data poslána: adressbook.json
+(2.1.2023) [12:49:04] Data poslána: adressbook.json
+(2.1.2023) [12:49:04] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [12:49:04] Data poslána: dashinfo.json
+(2.1.2023) [12:49:04] Data poslána: adressbook.json
+(2.1.2023) [12:49:04] Data poslána: adressbook.json
+(2.1.2023) [12:49:04] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] ______________Inicializace MZISAPI______________
+(2.1.2023) [13:08:29] Vše funguje na localhost:8080
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Autorizační request přijat.
+(2.1.2023) [13:08:29] loginData přečtena.
+(2.1.2023) [13:08:29]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Template poslán: optpc.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Template poslán: volitelnekonstrukce.html
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Autorizační request přijat.
+(2.1.2023) [13:08:29] loginData přečtena.
+(2.1.2023) [13:08:29]  Uživatel martinzaoral se snaží přihlásit. Povedlo se?: true
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Autorizační request přijat.
+(2.1.2023) [13:08:29] loginData přečtena.
+(2.1.2023) [13:08:29]  Uživatel zendříček se snaží přihlásit. Povedlo se?: false
+(2.1.2023) [13:08:29] Autorizační request přijat.
+(2.1.2023) [13:08:29] loginData přečtena.
+(2.1.2023) [13:08:29]  Uživatel zendříček se snaží přihlásit. Povedlo se?: true
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Autorizační request přijat.
+(2.1.2023) [13:08:29] loginData přečtena.
+(2.1.2023) [13:08:29]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Data poslána: adressbook.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Autorizační request přijat.
+(2.1.2023) [13:08:29] loginData přečtena.
+(2.1.2023) [13:08:29]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Zakázka poslána: 220001
+(2.1.2023) [13:08:29] Ping zaznamenán z IP Adresy ::1
+(2.1.2023) [13:08:29] Template poslán: odberatele.json
+(2.1.2023) [13:08:29] Data poslána: dashinfo.json
