@@ -1588,3 +1588,67 @@
 (5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
 (5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
 (5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:41:01] Template poslán: odberatele.json
+(5.1.2023) [22:13:40] ______________Inicializace MZISAPI______________
+(5.1.2023) [22:13:40] Vše funguje na localhost:8080
+(5.1.2023) [22:14:36] ______________Inicializace MZISAPI______________
+(5.1.2023) [22:14:36] Vše funguje na localhost:8080
+(5.1.2023) [22:14:36] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:16:14] ______________Inicializace MZISAPI______________
+(5.1.2023) [22:16:14] Vše funguje na localhost:8080
+(5.1.2023) [22:16:14] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:16:14] Autorizační request přijat.
+(5.1.2023) [22:16:14] loginData přečtena.
+(5.1.2023) [22:16:14]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(5.1.2023) [22:16:14] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:19:34] ______________Inicializace MZISAPI______________
+(5.1.2023) [22:19:34] Vše funguje na localhost:8080
+(5.1.2023) [22:19:34] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:19:34] Autorizační request přijat.
+(5.1.2023) [22:19:34] loginData přečtena.
+(5.1.2023) [22:19:34]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(5.1.2023) [22:19:34] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:20:07] ______________Inicializace MZISAPI______________
+(5.1.2023) [22:20:07] Vše funguje na localhost:8080
+(5.1.2023) [22:22:47] ______________Inicializace MZISAPI______________
+(5.1.2023) [22:22:47] Vše funguje na localhost:8080
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Template poslán: odberatele.json
+(5.1.2023) [22:22:47] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Autorizační request přijat.
+(5.1.2023) [22:22:47] loginData přečtena.
+(5.1.2023) [22:22:47]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Template poslán: odberatele.json
+(5.1.2023) [22:22:47] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Template poslán: odberatele.json
+(5.1.2023) [22:22:47] Data poslána: pvserviceplus/dashinfo.json
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Zakázka poslána: 23222
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Template poslán: odberatele.json
+(5.1.2023) [22:22:47] Data poslána: pvserviceplus/dashinfo.json
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Template poslán: odberatele.json
+(5.1.2023) [22:22:47] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Zakázka poslána: 220001
+(5.1.2023) [22:22:47] Zakázka poslána: 220001
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Template poslán: odberatele.json
+(5.1.2023) [22:22:47] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [22:22:47] Ping zaznamenán z IP Adresy ::1
