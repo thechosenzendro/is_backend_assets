@@ -971,3 +971,620 @@
 (4.1.2023) [18:19:17] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
 (4.1.2023) [18:19:17] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
 (4.1.2023) [18:19:17] Ping zaznamenán z IP Adresy ::ffff:127.0.0.1
+(5.1.2023) [15:51:55] ______________Inicializace MZISAPI______________
+(5.1.2023) [15:51:55] Vše funguje na localhost:8080
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Autorizační request přijat.
+(5.1.2023) [15:51:55] loginData přečtena.
+(5.1.2023) [15:51:55]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Data poslána: pvserviceplus/dashinfo.json
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Data poslána: adressbook.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: pvserviceplus/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Zakázka poslána: 23222
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: pvserviceplus/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Template poslán: odberatele.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Data poslána: adressbook.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Data poslána: adressbook.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Data poslána: mzprojekt/dashinfo.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Přidána nová činnost pro projekt 220001 od uživatele  zahájení
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Přidána nová činnost pro projekt 220001 od uživatele  zadání stavby
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Template poslán: optpc.json
+(5.1.2023) [15:51:55] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [15:51:55] Zakázka poslána: 220001
+(5.1.2023) [18:10:52] ______________Inicializace MZISAPI______________
+(5.1.2023) [18:10:52] Vše funguje na localhost:8080
+(5.1.2023) [18:10:52] Template poslán: optpc.json
+(5.1.2023) [18:10:52] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [18:10:52] Zakázka poslána: 220001
+(5.1.2023) [18:10:52] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] ______________Inicializace MZISAPI______________
+(5.1.2023) [18:14:08] Vše funguje na localhost:8080
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [18:14:08] Data poslána: adressbook.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Template poslán: optpc.json
+(5.1.2023) [18:14:08] Přidána nová činnost pro projekt 220001 od uživatele undefined
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [18:14:08] Zakázka poslána: 220001
+(5.1.2023) [19:06:47] ______________Inicializace MZISAPI______________
+(5.1.2023) [19:06:47] Vše funguje na localhost:8080
+(5.1.2023) [19:06:47] Template poslán: optpc.json
+(5.1.2023) [19:06:47] Přidána nová činnost pro projekt 220001 od uživatele undefined
+(5.1.2023) [19:06:47] Zakázka poslána: 220001
+(5.1.2023) [19:06:47] Zakázka poslána: 220001
+(5.1.2023) [19:06:47] Template poslán: optpc.json
+(5.1.2023) [19:06:47] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:06:47] Zakázka poslána: 220001
+(5.1.2023) [19:06:47] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] ______________Inicializace MZISAPI______________
+(5.1.2023) [19:12:55] Vše funguje na localhost:8080
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Zakázka poslána: 220001
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Template poslán: optpc.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [19:12:55] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [19:12:55] Data poslána: adressbook.json
+(5.1.2023) [20:34:40] ______________Inicializace MZISAPI______________
+(5.1.2023) [20:34:40] Vše funguje na localhost:8080
+(5.1.2023) [20:34:40] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:34:40] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:37:58] ______________Inicializace MZISAPI______________
+(5.1.2023) [20:37:58] Vše funguje na localhost:8080
+(5.1.2023) [20:37:58] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:37:58] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:37:58] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:39:15] ______________Inicializace MZISAPI______________
+(5.1.2023) [20:39:15] Vše funguje na localhost:8080
+(5.1.2023) [20:39:15] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:39:15] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:39:15] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:39:15] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:39:15] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:41:01] ______________Inicializace MZISAPI______________
+(5.1.2023) [20:41:01] Vše funguje na localhost:8080
+(5.1.2023) [20:41:01] Error při čtení templatu: vyjadreniname.json
+ Error: Error: ENOENT: no such file or directory, open 'C:\Users\uzivatel\Documents\IS\Backend_Assets\templates\vyjadreniname.json'
+(5.1.2023) [20:41:01] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Ping zaznamenán z IP Adresy ::1
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json
+(5.1.2023) [20:41:01] Template poslán: vyjadreniname.json

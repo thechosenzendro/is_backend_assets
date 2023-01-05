@@ -3,15 +3,22 @@
     "stavebnici": "&,&,&",
     "provedenecinnosti": [
         {
-            "Datum provedení": "3.11.2022",
-            "Popis činnosti": "test1",
-            "Zapisovatel": "Testovací uživatel L"
-        },
-        {
-            "Datum provedení": "5.11.2022",
-            "Popis činnosti": "Dokončená PD",
+            "Datum provedení": "5.1.2023",
+            "Popis činnosti": "Dokončena projektová dokumentace",
             "Zapisovatel": "Testovací uživatel L"
         }
     ],
+    "inzenyring": {
+        "uzemneplanovaciinformace": [],
+        "vyjadrenioexistencisiti": [],
+        "posudky": [],
+        "zadostopripojenikds": [],
+        "spravcisiti-souhlasspd": [],
+        "vyjadrenikpd": [],
+        "smlouvaopravustavbynacizimpozemku": [],
+        "souhlassouseduspovolenimstavby": [],
+        "stavebniurad": [],
+        "archivace": []
+    },
     "katastralniuzemi": "Černovice"
 }
