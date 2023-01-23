@@ -1665,3 +1665,744 @@
 (8.1.2023) [17:08:45] Vše připraveno na portu 8080
 (8.1.2023) [17:08:45] Ping zaznamenán z IP Adresy ::1
 (8.1.2023) [17:08:45] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:28:55] ______________Inicializace MZISAPI______________
+(21.1.2023) [12:28:55] HTTPS API připraveno na portu 8080
+(21.1.2023) [12:29:28] ______________Inicializace MZISAPI______________
+(21.1.2023) [12:29:28] HTTPS API připraveno na portu 8080
+(21.1.2023) [12:29:28] Testovácí HTTP API připraveno na portu 8081
+(21.1.2023) [12:29:47] ______________Inicializace MZISAPI______________
+(21.1.2023) [12:29:47] HTTPS API připraveno na portu 8080
+(21.1.2023) [12:29:47] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [12:29:56] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:30:03] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:30:08] Autorizační request přijat.
+(21.1.2023) [12:30:08] loginData přečtena.
+(21.1.2023) [12:30:08]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(21.1.2023) [12:30:08] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:30:29] Testovací indexová stránka spuštěna z IP Adresy ::1
+(21.1.2023) [12:30:48] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:31:36] Autorizační request přijat.
+(21.1.2023) [12:31:36] loginData přečtena.
+(21.1.2023) [12:31:36]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(21.1.2023) [12:31:36] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:32:44] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [12:32:49] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:31:24] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:31:34] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:31:37] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:32:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:32:51] Autorizační request přijat.
+(21.1.2023) [15:32:51] loginData přečtena.
+(21.1.2023) [15:32:51]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(21.1.2023) [15:32:52] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:34:20] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:34:25] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:38:41] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:38:44] Template poslán: odberatele.json
+(21.1.2023) [15:38:47] Data poslána: mzprojekt/dashinfo.json
+(21.1.2023) [15:39:16] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:39:16] Template poslán: odberatele.json
+(21.1.2023) [15:39:16] Data poslána: mzprojekt/dashinfo.json
+(21.1.2023) [15:39:22] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:39:22] Template poslán: odberatele.json
+(21.1.2023) [15:39:22] Data poslána: mzprojekt/dashinfo.json
+(21.1.2023) [15:39:42] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:39:42] Template poslán: odberatele.json
+(21.1.2023) [15:39:42] Data poslána: mzprojekt/dashinfo.json
+(21.1.2023) [15:40:48] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:40:48] Template poslán: odberatele.json
+(21.1.2023) [15:40:49] Data poslána: mzprojekt/dashinfo.json
+(21.1.2023) [15:48:39] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:48:39] Template poslán: odberatele.json
+(21.1.2023) [15:48:39] Error při čtení souboru: [{"Číslo zakázky":"Testing","Název zakázky":"Testing","Katastr":"Testing","Stavebník":"Testing","Status":"Testing","Studie":"Testing","Projekt":"Testing","Inženýring":"Testing","Archivace":"Testing"},{"Číslo zakázky":220001,"Katastr":"Černovice"},{"Číslo zakázky":220002}]
+ Error: Error: ENAMETOOLONG: name too long, open '../Backend_Assets/server/[{"Číslo zakázky":"Testing","Název zakázky":"Testing","Katastr":"Testing","Stavebník":"Testing","Status":"Testing","Studie":"Testing","Projekt":"Testing","Inženýring":"Testing","Archivace":"Testing"},{"Číslo zakázky":220001,"Katastr":"Černovice"},{"Číslo zakázky":220002}]'
+(21.1.2023) [15:52:12] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [15:52:12] Template poslán: odberatele.json
+(21.1.2023) [15:52:12] Error při čtení souboru: [{"Číslo zakázky":"Testing","Název zakázky":"Testing","Katastr":"Testing","Stavebník":"Testing","Status":"Testing","Studie":"Testing","Projekt":"Testing","Inženýring":"Testing","Archivace":"Testing"},{"Číslo zakázky":220001,"Katastr":"Černovice"},{"Číslo zakázky":220002}]
+ Error: Error: ENAMETOOLONG: name too long, open '../Backend_Assets/server/[{"Číslo zakázky":"Testing","Název zakázky":"Testing","Katastr":"Testing","Stavebník":"Testing","Status":"Testing","Studie":"Testing","Projekt":"Testing","Inženýring":"Testing","Archivace":"Testing"},{"Číslo zakázky":220001,"Katastr":"Černovice"},{"Číslo zakázky":220002}]'
+(21.1.2023) [16:06:05] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [16:06:05] Template poslán: odberatele.json
+(21.1.2023) [16:10:54] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [16:11:03] Autorizační request přijat.
+(21.1.2023) [16:11:03] loginData přečtena.
+(21.1.2023) [16:11:03]  Uživatel l se snaží přihlásit. Povedlo se?: true
+(21.1.2023) [16:11:04] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [16:11:04] Template poslán: odberatele.json
+(21.1.2023) [17:09:25] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:09:25] Template poslán: odberatele.json
+(21.1.2023) [17:09:49] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:09:49] Template poslán: odberatele.json
+(21.1.2023) [17:09:51] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:09:51] Template poslán: odberatele.json
+(21.1.2023) [17:09:55] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:09:55] Data poslána: loggedusers.json
+(21.1.2023) [17:09:55] Data poslána: roles.json
+(21.1.2023) [17:12:02] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:12:02] Data poslána: loggedusers.json
+(21.1.2023) [17:12:02] Data poslána: roles.json
+(21.1.2023) [17:14:56] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:14:56] Data poslána: loggedusers.json
+(21.1.2023) [17:14:56] Data poslána: roles.json
+(21.1.2023) [17:20:49] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:20:49] Data poslána: loggedusers.json
+(21.1.2023) [17:20:49] Data poslána: roles.json
+(21.1.2023) [17:21:32] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:21:32] Data poslána: loggedusers.json
+(21.1.2023) [17:21:32] Data poslána: roles.json
+(21.1.2023) [17:22:19] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:22:19] Data poslána: loggedusers.json
+(21.1.2023) [17:22:19] Data poslána: roles.json
+(21.1.2023) [17:22:44] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:22:44] Data poslána: loggedusers.json
+(21.1.2023) [17:22:44] Data poslána: roles.json
+(21.1.2023) [17:24:21] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:24:21] Data poslána: loggedusers.json
+(21.1.2023) [17:24:21] Data poslána: roles.json
+(21.1.2023) [17:24:45] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:24:45] Data poslána: loggedusers.json
+(21.1.2023) [17:24:45] Data poslána: roles.json
+(21.1.2023) [17:24:50] Data poslána: adressbook.json
+(21.1.2023) [17:24:51] Data poslána: adressbook.json
+(21.1.2023) [17:24:51] Data poslána: adressbook.json
+(21.1.2023) [17:24:51] Data poslána: adressbook.json
+(21.1.2023) [17:24:54] Data poslána: adressbook.json
+(21.1.2023) [17:29:53] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:29:53] Template poslán: odberatele.json
+(21.1.2023) [17:39:43] ______________Inicializace MZISAPI______________
+(21.1.2023) [17:39:43] HTTPS API připraveno na portu 8080
+(21.1.2023) [17:39:43] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [17:40:35] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [17:40:35] Data poslána: loggedusers.json
+(21.1.2023) [17:40:35] Data poslána: roles.json
+(21.1.2023) [17:42:51] ______________Inicializace MZISAPI______________
+(21.1.2023) [17:42:51] HTTPS API připraveno na portu 8080
+(21.1.2023) [17:42:51] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [18:02:16] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:02:16] Zakázka poslána: 220001
+(21.1.2023) [18:02:16] Zakázka poslána: 220001
+(21.1.2023) [18:02:33] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:02:33] Zakázka poslána: 220001
+(21.1.2023) [18:02:33] Zakázka poslána: 220001
+(21.1.2023) [18:04:15] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:04:15] Template poslán: odberatele.json
+(21.1.2023) [18:04:17] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:04:17] Data poslána: loggedusers.json
+(21.1.2023) [18:04:17] Data poslána: roles.json
+(21.1.2023) [18:05:59] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:05:59] Data poslána: loggedusers.json
+(21.1.2023) [18:05:59] Data poslána: login.json
+(21.1.2023) [18:05:59] Data poslána: roles.json
+(21.1.2023) [18:06:38] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:06:38] Data poslána: loggedusers.json
+(21.1.2023) [18:06:38] Data poslána: roles.json
+(21.1.2023) [18:07:41] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:07:41] Data poslána: loggedusers.json
+(21.1.2023) [18:07:41] Data poslána: login.json
+(21.1.2023) [18:07:41] Data poslána: roles.json
+(21.1.2023) [18:08:22] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:08:22] Data poslána: loggedusers.json
+(21.1.2023) [18:08:22] Data poslána: login.json
+(21.1.2023) [18:08:22] Data poslána: roles.json
+(21.1.2023) [18:08:33] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:08:33] Data poslána: loggedusers.json
+(21.1.2023) [18:08:33] Data poslána: login.json
+(21.1.2023) [18:08:33] Data poslána: roles.json
+(21.1.2023) [18:09:52] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:09:52] Data poslána: loggedusers.json
+(21.1.2023) [18:09:52] Data poslána: login.json
+(21.1.2023) [18:09:52] Data poslána: roles.json
+(21.1.2023) [18:15:33] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:15:33] Data poslána: loggedusers.json
+(21.1.2023) [18:15:33] Data poslána: login.json
+(21.1.2023) [18:15:33] Data poslána: roles.json
+(21.1.2023) [18:17:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:17:26] Zakázka poslána: 220001
+(21.1.2023) [18:17:26] Zakázka poslána: 220001
+(21.1.2023) [18:17:26] Template poslán: optpc.json
+(21.1.2023) [18:17:48] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:17:48] Zakázka poslána: 220001
+(21.1.2023) [18:17:48] Zakázka poslána: 220001
+(21.1.2023) [18:17:50] Template poslán: optpc.json
+(21.1.2023) [18:21:41] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:21:41] Zakázka poslána: 220001
+(21.1.2023) [18:21:41] Zakázka poslána: 220001
+(21.1.2023) [18:22:07] Template poslán: optpc.json
+(21.1.2023) [18:24:17] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:24:17] Zakázka poslána: 220001
+(21.1.2023) [18:24:17] Zakázka poslána: 220001
+(21.1.2023) [18:24:19] Template poslán: optpc.json
+(21.1.2023) [18:24:19] Data poslána: login.json
+(21.1.2023) [18:24:42] Template poslán: optpc.json
+(21.1.2023) [18:24:43] Template poslán: optpc.json
+(21.1.2023) [18:24:46] Template poslán: optpc.json
+(21.1.2023) [18:24:46] Data poslána: login.json
+(21.1.2023) [18:24:54] Zakázka poslána: 220001
+(21.1.2023) [18:24:54] Zakázka poslána: 220001
+(21.1.2023) [18:24:55] Zakázka poslána: 220001
+(21.1.2023) [18:24:56] Zakázka poslána: 220001
+(21.1.2023) [18:24:56] Zakázka poslána: 220001
+(21.1.2023) [18:25:08] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:25:08] Zakázka poslána: 220001
+(21.1.2023) [18:25:08] Zakázka poslána: 220001
+(21.1.2023) [18:25:10] Template poslán: optpc.json
+(21.1.2023) [18:25:10] Data poslána: login.json
+(21.1.2023) [18:25:14] Data poslána: login.json
+(21.1.2023) [18:25:16] Data poslána: login.json
+(21.1.2023) [18:25:17] Data poslána: login.json
+(21.1.2023) [18:25:17] Data poslána: login.json
+(21.1.2023) [18:25:18] Data poslána: login.json
+(21.1.2023) [18:25:18] Data poslána: login.json
+(21.1.2023) [18:25:19] Data poslána: login.json
+(21.1.2023) [18:25:19] Data poslána: login.json
+(21.1.2023) [18:25:19] Data poslána: login.json
+(21.1.2023) [18:25:19] Data poslána: login.json
+(21.1.2023) [18:25:20] Data poslána: login.json
+(21.1.2023) [18:25:20] Data poslána: login.json
+(21.1.2023) [18:25:20] Data poslána: login.json
+(21.1.2023) [18:25:22] Data poslána: login.json
+(21.1.2023) [18:25:22] Data poslána: login.json
+(21.1.2023) [18:25:26] Template poslán: optpc.json
+(21.1.2023) [18:25:26] Template poslán: optpc.json
+(21.1.2023) [18:25:27] Template poslán: optpc.json
+(21.1.2023) [18:25:27] Template poslán: optpc.json
+(21.1.2023) [18:25:28] Template poslán: optpc.json
+(21.1.2023) [18:25:29] Template poslán: optpc.json
+(21.1.2023) [18:25:29] Template poslán: optpc.json
+(21.1.2023) [18:25:36] Zakázka poslána: 220001
+(21.1.2023) [18:25:36] Zakázka poslána: 220001
+(21.1.2023) [18:25:37] Zakázka poslána: 220001
+(21.1.2023) [18:25:39] Zakázka poslána: 220001
+(21.1.2023) [18:25:39] Zakázka poslána: 220001
+(21.1.2023) [18:25:51] Template poslán: optpc.json
+(21.1.2023) [18:25:51] Data poslána: login.json
+(21.1.2023) [18:26:02] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(21.1.2023) [18:26:02] Zakázka poslána: 220001
+(21.1.2023) [18:26:02] Zakázka poslána: 220001
+(21.1.2023) [18:26:24] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:26:24] Template poslán: odberatele.json
+(21.1.2023) [18:26:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:26:26] Data poslána: loggedusers.json
+(21.1.2023) [18:26:26] Data poslána: login.json
+(21.1.2023) [18:26:26] Data poslána: roles.json
+(21.1.2023) [18:30:48] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:30:49] Data poslána: loggedusers.json
+(21.1.2023) [18:30:49] Data poslána: login.json
+(21.1.2023) [18:30:49] Data poslána: roles.json
+(21.1.2023) [18:31:23] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:31:23] Data poslána: loggedusers.json
+(21.1.2023) [18:31:23] Data poslána: login.json
+(21.1.2023) [18:31:23] Data poslána: roles.json
+(21.1.2023) [18:31:39] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:31:39] Data poslána: loggedusers.json
+(21.1.2023) [18:31:39] Data poslána: login.json
+(21.1.2023) [18:31:39] Data poslána: roles.json
+(21.1.2023) [18:31:50] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:31:50] Data poslána: loggedusers.json
+(21.1.2023) [18:31:50] Data poslána: login.json
+(21.1.2023) [18:31:50] Data poslána: roles.json
+(21.1.2023) [18:32:28] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:32:28] Data poslána: loggedusers.json
+(21.1.2023) [18:32:28] Data poslána: login.json
+(21.1.2023) [18:32:28] Data poslána: roles.json
+(21.1.2023) [18:37:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:37:26] Data poslána: loggedusers.json
+(21.1.2023) [18:37:26] Data poslána: login.json
+(21.1.2023) [18:37:26] Data poslána: roles.json
+(21.1.2023) [18:38:29] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:38:29] Data poslána: loggedusers.json
+(21.1.2023) [18:38:29] Data poslána: login.json
+(21.1.2023) [18:38:29] Data poslána: roles.json
+(21.1.2023) [18:39:38] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:39:38] Data poslána: loggedusers.json
+(21.1.2023) [18:39:38] Data poslána: login.json
+(21.1.2023) [18:39:38] Data poslána: roles.json
+(21.1.2023) [18:40:01] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:40:01] Data poslána: loggedusers.json
+(21.1.2023) [18:40:01] Data poslána: login.json
+(21.1.2023) [18:40:01] Data poslána: roles.json
+(21.1.2023) [18:40:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:40:26] Data poslána: loggedusers.json
+(21.1.2023) [18:40:26] Data poslána: login.json
+(21.1.2023) [18:40:26] Data poslána: roles.json
+(21.1.2023) [18:41:04] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:41:04] Data poslána: loggedusers.json
+(21.1.2023) [18:41:04] Data poslána: login.json
+(21.1.2023) [18:41:04] Data poslána: roles.json
+(21.1.2023) [18:43:11] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:43:11] Data poslána: loggedusers.json
+(21.1.2023) [18:43:11] Data poslána: login.json
+(21.1.2023) [18:43:11] Data poslána: roles.json
+(21.1.2023) [18:43:35] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:43:35] Data poslána: loggedusers.json
+(21.1.2023) [18:43:35] Data poslána: login.json
+(21.1.2023) [18:43:35] Data poslána: roles.json
+(21.1.2023) [18:45:13] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:45:13] Data poslána: loggedusers.json
+(21.1.2023) [18:45:13] Data poslána: login.json
+(21.1.2023) [18:45:13] Data poslána: roles.json
+(21.1.2023) [18:46:26] ______________Inicializace MZISAPI______________
+(21.1.2023) [18:46:26] HTTPS API připraveno na portu 8080
+(21.1.2023) [18:46:26] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [18:48:35] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:48:35] Data poslána: loggedusers.json
+(21.1.2023) [18:48:35] Data poslána: roles.json
+(21.1.2023) [18:48:35] Data poslána: login.json
+(21.1.2023) [18:49:35] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:49:35] Template poslán: odberatele.json
+(21.1.2023) [18:57:47] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:57:47] Template poslán: odberatele.json
+(21.1.2023) [18:58:57] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:58:57] Template poslán: odberatele.json
+(21.1.2023) [18:58:59] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [18:58:59] Template poslán: odberatele.json
+(21.1.2023) [19:05:57] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:05:57] Zakázka poslána: 220001
+(21.1.2023) [19:05:57] Zakázka poslána: 220001
+(21.1.2023) [19:05:59] Zakázka poslána: 220001
+(21.1.2023) [19:06:02] Zakázka poslána: 220001
+(21.1.2023) [19:09:18] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:09:18] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:09:18] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:10:40] Zakázka poslána: 220001
+(21.1.2023) [19:10:43] Zakázka poslána: 220001
+(21.1.2023) [19:10:46] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:10:46] Template poslán: odberatele.json
+(21.1.2023) [19:13:10] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:13:10] Zakázka poslána: 220001
+(21.1.2023) [19:13:10] Zakázka poslána: 220001
+(21.1.2023) [19:14:03] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:14:03] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:14:03] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:14:10] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:14:10] Template poslán: odberatele.json
+(21.1.2023) [19:14:29] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:14:29] Zakázka poslána: 220001
+(21.1.2023) [19:14:29] Zakázka poslána: 220001
+(21.1.2023) [19:14:32] Zakázka poslána: 220001
+(21.1.2023) [19:17:24] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:17:24] Template poslán: odberatele.json
+(21.1.2023) [19:19:41] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:19:41] Zakázka poslána: 220001
+(21.1.2023) [19:19:41] Zakázka poslána: 220001
+(21.1.2023) [19:19:42] Zakázka poslána: 220001
+(21.1.2023) [19:20:24] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:24] Template poslán: odberatele.json
+(21.1.2023) [19:20:25] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:25] Zakázka poslána: 220002
+(21.1.2023) [19:20:25] Zakázka poslána: 220002
+(21.1.2023) [19:20:26] Zakázka poslána: 220002
+(21.1.2023) [19:20:33] Zakázka poslána: 220002
+(21.1.2023) [19:20:37] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:37] Template poslán: odberatele.json
+(21.1.2023) [19:20:40] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:40] Template poslán: odberatele.json
+(21.1.2023) [19:20:45] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:45] Zakázka poslána: 23222
+(21.1.2023) [19:20:45] Zakázka poslána: 23222
+(21.1.2023) [19:20:47] Zakázka poslána: 23222
+(21.1.2023) [19:20:49] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:49] Template poslán: odberatele.json
+(21.1.2023) [19:20:57] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:20:57] Template poslán: odberatele.json
+(21.1.2023) [19:21:01] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:21:01] Zakázka poslána: 220001
+(21.1.2023) [19:21:01] Zakázka poslána: 220001
+(21.1.2023) [19:21:03] Zakázka poslána: 220001
+(21.1.2023) [19:21:12] Zakázka poslána: 220001
+(21.1.2023) [19:21:13] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:21:13] Template poslán: odberatele.json
+(21.1.2023) [19:22:15] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:22:15] Template poslán: odberatele.json
+(21.1.2023) [19:22:21] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:22:21] Zakázka poslána: 220001
+(21.1.2023) [19:22:21] Zakázka poslána: 220001
+(21.1.2023) [19:22:22] Zakázka poslána: 220001
+(21.1.2023) [19:22:29] Zakázka poslána: 220001
+(21.1.2023) [19:22:30] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:22:30] Template poslán: odberatele.json
+(21.1.2023) [19:22:49] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:22:49] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:22:49] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:22:53] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:22:53] Zakázka poslána: 220001
+(21.1.2023) [19:22:53] Zakázka poslána: 220001
+(21.1.2023) [19:22:54] Zakázka poslána: 220001
+(21.1.2023) [19:23:00] Zakázka poslána: 220001
+(21.1.2023) [19:23:03] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:23:03] Template poslán: odberatele.json
+(21.1.2023) [19:26:58] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:26:58] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:26:58] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:27:12] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:27:12] Zakázka poslána: 220001
+(21.1.2023) [19:27:12] Zakázka poslána: 220001
+(21.1.2023) [19:27:13] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:27:13] Template poslán: odberatele.json
+(21.1.2023) [19:32:51] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:32:51] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:32:51] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:32:54] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:32:54] Zakázka poslána: 220001
+(21.1.2023) [19:32:54] Zakázka poslána: 220001
+(21.1.2023) [19:32:56] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:32:56] Template poslán: odberatele.json
+(21.1.2023) [19:33:09] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:33:09] Zakázka poslána: 220001
+(21.1.2023) [19:33:09] Zakázka poslána: 220001
+(21.1.2023) [19:33:10] Zakázka poslána: 220001
+(21.1.2023) [19:33:10] Zakázka poslána: 220001
+(21.1.2023) [19:33:12] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:33:12] Template poslán: odberatele.json
+(21.1.2023) [19:33:14] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:33:14] Zakázka poslána: 220002
+(21.1.2023) [19:33:14] Zakázka poslána: 220002
+(21.1.2023) [19:33:16] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:33:16] Template poslán: odberatele.json
+(21.1.2023) [19:33:18] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:33:18] Template poslán: odberatele.json
+(21.1.2023) [19:33:24] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:33:24] Template poslán: odberatele.json
+(21.1.2023) [19:33:41] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:33:41] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:33:41] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:46:56] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:46:56] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:46:56] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:55:03] ______________Inicializace MZISAPI______________
+(21.1.2023) [19:55:03] HTTPS API připraveno na portu 8080
+(21.1.2023) [19:55:03] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [19:55:06] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:55:06] Zakázka poslána: 220001
+(21.1.2023) [19:55:06] Zakázka poslána: 220001
+(21.1.2023) [19:55:08] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [19:55:08] Template poslán: odberatele.json
+(21.1.2023) [20:04:53] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:04:53] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:04:53] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:05:24] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:05:24] Zakázka poslána: 220001
+(21.1.2023) [20:05:24] Zakázka poslána: 220001
+(21.1.2023) [20:05:26] Zakázka poslána: 220001
+(21.1.2023) [20:05:30] Zakázka poslána: 220001
+(21.1.2023) [20:05:30] Zakázka poslána: 220001
+(21.1.2023) [20:05:43] Zakázka poslána: 220001
+(21.1.2023) [20:05:49] Zakázka poslána: 220001
+(21.1.2023) [20:05:49] Zakázka poslána: 220001
+(21.1.2023) [20:05:54] Zakázka poslána: 220001
+(21.1.2023) [20:05:57] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:05:57] Template poslán: odberatele.json
+(21.1.2023) [20:07:14] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:07:14] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:07:14] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:08:50] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:08:50] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:08:50] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:08:56] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:08:56] Template poslán: odberatele.json
+(21.1.2023) [20:09:47] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:09:47] Template poslán: odberatele.json
+(21.1.2023) [20:10:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:12:13] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:12:13] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:12:13] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:12:26] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:13:19] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:13:19] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:13:19] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:13:22] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:13:22] Template poslán: odberatele.json
+(21.1.2023) [20:16:04] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:16:04] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:16:04] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:16:07] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:16:07] Zakázka poslána: 220001
+(21.1.2023) [20:16:07] Zakázka poslána: 220001
+(21.1.2023) [20:16:09] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:16:09] Template poslán: odberatele.json
+(21.1.2023) [20:16:36] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:16:36] Template poslán: odberatele.json
+(21.1.2023) [20:16:37] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:16:37] Template poslán: odberatele.json
+(21.1.2023) [20:16:38] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:16:38] Template poslán: odberatele.json
+(21.1.2023) [20:17:26] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:17:26] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:17:26] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:17:30] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:17:30] Template poslán: odberatele.json
+(21.1.2023) [20:18:04] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:18:04] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:18:04] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:18:07] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:18:38] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:18:38] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:18:38] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:19:01] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:19:01] Template poslán: odberatele.json
+(21.1.2023) [20:45:41] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:45:41] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:45:41] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:45:44] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:45:44] Template poslán: odberatele.json
+(21.1.2023) [20:46:58] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:46:58] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:46:58] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:47:01] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:47:01] Template poslán: odberatele.json
+(21.1.2023) [20:47:34] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:47:34] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:47:34] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:47:37] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:47:37] Template poslán: odberatele.json
+(21.1.2023) [20:50:40] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:50:41] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:50:41] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:50:43] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:50:43] Template poslán: odberatele.json
+(21.1.2023) [20:58:54] ______________Inicializace MZISAPI______________
+(21.1.2023) [20:58:54] HTTPS API připraveno na portu 8080
+(21.1.2023) [20:58:54] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [20:59:03] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [20:59:03] Template poslán: odberatele.json
+(21.1.2023) [21:01:34] ______________Inicializace MZISAPI______________
+(21.1.2023) [21:01:34] HTTPS API připraveno na portu 8080
+(21.1.2023) [21:01:34] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [21:02:08] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:03:06] ______________Inicializace MZISAPI______________
+(21.1.2023) [21:03:06] HTTPS API připraveno na portu 8080
+(21.1.2023) [21:03:06] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [21:03:09] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:03:09] Template poslán: odberatele.json
+(21.1.2023) [21:03:29] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:03:29] Template poslán: odberatele.json
+(21.1.2023) [21:04:59] ______________Inicializace MZISAPI______________
+(21.1.2023) [21:04:59] HTTPS API připraveno na portu 8080
+(21.1.2023) [21:04:59] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [21:05:02] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:05:02] Template poslán: odberatele.json
+(21.1.2023) [21:06:08] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:06:08] Data poslána: loggedusers.json
+(21.1.2023) [21:06:08] Data poslána: login.json
+(21.1.2023) [21:06:08] Data poslána: roles.json
+(21.1.2023) [21:32:43] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:32:43] Data poslána: loggedusers.json
+(21.1.2023) [21:32:43] Data poslána: login.json
+(21.1.2023) [21:32:43] Data poslána: roles.json
+(21.1.2023) [21:32:48] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:32:48] Data poslána: loggedusers.json
+(21.1.2023) [21:32:48] Data poslána: login.json
+(21.1.2023) [21:32:48] Data poslána: roles.json
+(21.1.2023) [21:33:02] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:33:02] Data poslána: loggedusers.json
+(21.1.2023) [21:33:02] Data poslána: login.json
+(21.1.2023) [21:33:02] Data poslána: roles.json
+(21.1.2023) [21:33:13] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:33:13] Data poslána: loggedusers.json
+(21.1.2023) [21:33:13] Data poslána: login.json
+(21.1.2023) [21:33:13] Data poslána: roles.json
+(21.1.2023) [21:33:16] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:33:16] Data poslána: loggedusers.json
+(21.1.2023) [21:33:16] Data poslána: login.json
+(21.1.2023) [21:33:16] Data poslána: roles.json
+(21.1.2023) [21:34:30] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:34:30] Data poslána: loggedusers.json
+(21.1.2023) [21:34:30] Data poslána: login.json
+(21.1.2023) [21:34:30] Data poslána: roles.json
+(21.1.2023) [21:34:43] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:34:43] Data poslána: loggedusers.json
+(21.1.2023) [21:34:43] Data poslána: login.json
+(21.1.2023) [21:34:43] Data poslána: roles.json
+(21.1.2023) [21:35:00] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:35:00] Data poslána: loggedusers.json
+(21.1.2023) [21:35:00] Data poslána: login.json
+(21.1.2023) [21:35:00] Data poslána: roles.json
+(21.1.2023) [21:39:04] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:39:04] Data poslána: loggedusers.json
+(21.1.2023) [21:39:04] Data poslána: login.json
+(21.1.2023) [21:39:04] Data poslána: roles.json
+(21.1.2023) [21:42:24] Data poslána: adressbook.json
+(21.1.2023) [21:42:30] Data poslána: adressbook.json
+(21.1.2023) [21:42:30] Data poslána: adressbook.json
+(21.1.2023) [21:42:30] Data poslána: adressbook.json
+(21.1.2023) [21:42:31] Data poslána: adressbook.json
+(21.1.2023) [21:42:31] Data poslána: adressbook.json
+(21.1.2023) [21:42:32] Data poslána: adressbook.json
+(21.1.2023) [21:42:40] Data poslána: adressbook.json
+(21.1.2023) [21:42:47] Data poslána: adressbook.json
+(21.1.2023) [21:42:47] Data poslána: adressbook.json
+(21.1.2023) [21:42:48] Data poslána: adressbook.json
+(21.1.2023) [21:42:48] Data poslána: adressbook.json
+(21.1.2023) [21:42:49] Data poslána: adressbook.json
+(21.1.2023) [21:42:49] Data poslána: adressbook.json
+(21.1.2023) [21:42:49] Data poslána: adressbook.json
+(21.1.2023) [21:42:49] Data poslána: adressbook.json
+(21.1.2023) [21:42:50] Data poslána: adressbook.json
+(21.1.2023) [21:42:50] Data poslána: adressbook.json
+(21.1.2023) [21:42:50] Data poslána: adressbook.json
+(21.1.2023) [21:44:47] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [21:44:47] Template poslán: odberatele.json
+(21.1.2023) [22:34:47] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:34:47] Template poslán: odberatele.json
+(21.1.2023) [22:34:58] Data poslána: adressbook.json
+(21.1.2023) [22:35:02] Data poslána: adressbook.json
+(21.1.2023) [22:35:04] Data poslána: adressbook.json
+(21.1.2023) [22:35:05] Data poslána: adressbook.json
+(21.1.2023) [22:35:06] Data poslána: adressbook.json
+(21.1.2023) [22:35:06] Data poslána: adressbook.json
+(21.1.2023) [22:35:06] Data poslána: adressbook.json
+(21.1.2023) [22:35:07] Data poslána: adressbook.json
+(21.1.2023) [22:35:08] Data poslána: adressbook.json
+(21.1.2023) [22:35:09] Data poslána: adressbook.json
+(21.1.2023) [22:36:09] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:36:09] Template poslán: odberatele.json
+(21.1.2023) [22:36:14] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:36:14] Zakázka poslána: 220001
+(21.1.2023) [22:36:14] Zakázka poslána: 220001
+(21.1.2023) [22:36:15] Template poslán: optpc.json
+(21.1.2023) [22:36:15] Data poslána: login.json
+(21.1.2023) [22:36:21] Data poslána: login.json
+(21.1.2023) [22:36:21] Data poslána: login.json
+(21.1.2023) [22:36:21] Data poslána: login.json
+(21.1.2023) [22:36:23] Data poslána: login.json
+(21.1.2023) [22:36:23] Data poslána: login.json
+(21.1.2023) [22:36:23] Data poslána: login.json
+(21.1.2023) [22:36:23] Data poslána: login.json
+(21.1.2023) [22:36:52] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:36:52] Zakázka poslána: 220001
+(21.1.2023) [22:36:52] Zakázka poslána: 220001
+(21.1.2023) [22:36:57] Template poslán: optpc.json
+(21.1.2023) [22:36:57] Data poslána: login.json
+(21.1.2023) [22:37:00] Template poslán: optpc.json
+(21.1.2023) [22:37:00] Template poslán: optpc.json
+(21.1.2023) [22:37:00] Template poslán: optpc.json
+(21.1.2023) [22:37:01] Template poslán: optpc.json
+(21.1.2023) [22:37:02] Template poslán: optpc.json
+(21.1.2023) [22:37:02] Template poslán: optpc.json
+(21.1.2023) [22:37:02] Template poslán: optpc.json
+(21.1.2023) [22:37:02] Template poslán: optpc.json
+(21.1.2023) [22:37:03] Template poslán: optpc.json
+(21.1.2023) [22:37:03] Template poslán: optpc.json
+(21.1.2023) [22:37:05] Template poslán: optpc.json
+(21.1.2023) [22:37:05] Template poslán: optpc.json
+(21.1.2023) [22:37:07] Template poslán: optpc.json
+(21.1.2023) [22:37:08] Template poslán: optpc.json
+(21.1.2023) [22:37:09] Template poslán: optpc.json
+(21.1.2023) [22:38:42] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:38:42] Template poslán: odberatele.json
+(21.1.2023) [22:38:52] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:38:52] Data poslána: loggedusers.json
+(21.1.2023) [22:38:52] Data poslána: login.json
+(21.1.2023) [22:38:52] Data poslána: roles.json
+(21.1.2023) [22:38:58] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:38:58] Data poslána: loggedusers.json
+(21.1.2023) [22:38:58] Data poslána: login.json
+(21.1.2023) [22:38:58] Data poslána: roles.json
+(21.1.2023) [22:39:20] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:39:20] Template poslán: odberatele.json
+(21.1.2023) [22:40:02] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:02] Template poslán: odberatele.json
+(21.1.2023) [22:40:08] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:08] Zakázka poslána: 220001
+(21.1.2023) [22:40:08] Zakázka poslána: 220001
+(21.1.2023) [22:40:12] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:12] Zakázka poslána: 220001
+(21.1.2023) [22:40:12] Zakázka poslána: 220001
+(21.1.2023) [22:40:13] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:13] Zakázka poslána: 220001
+(21.1.2023) [22:40:13] Zakázka poslána: 220001
+(21.1.2023) [22:40:13] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:13] Zakázka poslána: 220001
+(21.1.2023) [22:40:13] Zakázka poslána: 220001
+(21.1.2023) [22:40:17] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:17] Template poslán: odberatele.json
+(21.1.2023) [22:40:29] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:29] Template poslán: odberatele.json
+(21.1.2023) [22:40:44] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:40:44] Template poslán: odberatele.json
+(21.1.2023) [22:40:56] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:41:17] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:42:15] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:42:15] Zakázka poslána: 220001
+(21.1.2023) [22:42:15] Zakázka poslána: 220001
+(21.1.2023) [22:42:20] Zakázka poslána: 220001
+(21.1.2023) [22:46:54] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:46:54] Zakázka poslána: 220001
+(21.1.2023) [22:46:54] Zakázka poslána: 220001
+(21.1.2023) [22:46:57] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:46:57] Zakázka poslána: 220001
+(21.1.2023) [22:46:57] Zakázka poslána: 220001
+(21.1.2023) [22:47:00] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:47:00] Template poslán: odberatele.json
+(21.1.2023) [22:48:54] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:48:54] Template poslán: odberatele.json
+(21.1.2023) [22:50:04] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [22:50:04] Zakázka poslána: 220001
+(21.1.2023) [22:50:04] Zakázka poslána: 220001
+(21.1.2023) [22:50:06] Zakázka poslána: 220001
+(21.1.2023) [22:50:08] Zakázka poslána: 220001
+(21.1.2023) [23:13:08] Zakázka poslána: 220001
+(21.1.2023) [23:13:12] Zakázka poslána: 220001
+(21.1.2023) [23:13:18] Zakázka poslána: 220001
+(21.1.2023) [23:13:22] Zakázka poslána: 220001
+(21.1.2023) [23:13:47] Zakázka poslána: 220001
+(21.1.2023) [23:13:47] Zakázka poslána: 220001
+(21.1.2023) [23:15:36] Template poslán: optpc.json
+(21.1.2023) [23:15:36] Data poslána: login.json
+(21.1.2023) [23:19:39] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:19:39] Zakázka poslána: 220001
+(21.1.2023) [23:19:39] Zakázka poslána: 220001
+(21.1.2023) [23:20:44] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:20:44] Zakázka poslána: 220001
+(21.1.2023) [23:20:44] Zakázka poslána: 220001
+(21.1.2023) [23:24:46] Template poslán: optpc.json
+(21.1.2023) [23:24:46] Data poslána: login.json
+(21.1.2023) [23:24:49] Template poslán: optpc.json
+(21.1.2023) [23:24:49] Template poslán: optpc.json
+(21.1.2023) [23:24:49] Template poslán: optpc.json
+(21.1.2023) [23:24:49] Template poslán: optpc.json
+(21.1.2023) [23:24:50] Template poslán: optpc.json
+(21.1.2023) [23:24:50] Template poslán: optpc.json
+(21.1.2023) [23:24:51] Template poslán: optpc.json
+(21.1.2023) [23:24:51] Template poslán: optpc.json
+(21.1.2023) [23:24:55] Data poslána: login.json
+(21.1.2023) [23:24:55] Data poslána: login.json
+(21.1.2023) [23:24:55] Data poslána: login.json
+(21.1.2023) [23:24:56] Data poslána: login.json
+(21.1.2023) [23:25:06] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(21.1.2023) [23:25:06] Zakázka poslána: 220001
+(21.1.2023) [23:25:06] Zakázka poslána: 220001
+(21.1.2023) [23:25:14] ______________Inicializace MZISAPI______________
+(21.1.2023) [23:25:14] HTTPS API připraveno na portu 8080
+(21.1.2023) [23:25:14] Testovací HTTP API připraveno na portu 8081
+(21.1.2023) [23:25:17] Data poslána: login.json
+(21.1.2023) [23:25:17] Template poslán: optpc.json
+(21.1.2023) [23:25:28] Přidána nová činnost pro projekt 220001 od uživatele Testovací uživatel L
+(21.1.2023) [23:25:28] Zakázka poslána: 220001
+(21.1.2023) [23:25:28] Zakázka poslána: 220001
+(21.1.2023) [23:31:11] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:31:11] Template poslán: odberatele.json
+(21.1.2023) [23:34:56] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:34:56] Template poslán: odberatele.json
+(21.1.2023) [23:35:05] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:35:05] Template poslán: odberatele.json
+(21.1.2023) [23:35:07] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:35:08] Template poslán: odberatele.json
+(21.1.2023) [23:35:49] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:35:49] Data poslána: loggedusers.json
+(21.1.2023) [23:35:49] Data poslána: login.json
+(21.1.2023) [23:35:49] Data poslána: roles.json
+(21.1.2023) [23:37:34] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:37:34] Template poslán: odberatele.json
+(21.1.2023) [23:37:53] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:37:53] Error při čtení UI zakázky: 23003
+ Error: Error: ENOENT: no such file or directory, open '../Backend_Assets/server/mzprojekt/23003/ui.json'
+(21.1.2023) [23:37:59] Error při čtení UI zakázky: 23003
+ Error: Error: ENOENT: no such file or directory, open '../Backend_Assets/server/mzprojekt/23003/ui.json'
+(21.1.2023) [23:38:00] Error při čtení UI zakázky: 23003
+ Error: Error: ENOENT: no such file or directory, open '../Backend_Assets/server/mzprojekt/23003/ui.json'
+(21.1.2023) [23:38:01] Error při čtení UI zakázky: 23003
+ Error: Error: ENOENT: no such file or directory, open '../Backend_Assets/server/mzprojekt/23003/ui.json'
+(21.1.2023) [23:38:02] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:38:02] Template poslán: odberatele.json
+(21.1.2023) [23:38:54] Ping zaznamenán z IP Adresy ::1
+(21.1.2023) [23:38:54] Template poslán: odberatele.json

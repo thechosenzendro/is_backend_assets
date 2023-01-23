@@ -2,7 +2,7 @@
     {
         "zendříček": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
         "role_zendříček": "uzivatel",
-        "jmeno_zendříček": "Adam Zaoral"
+        "jmeno_zendříček": "Zendříček"
     },
     {
         "martinzaoral": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
@@ -23,5 +23,15 @@
         "letadlo": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
         "role_letadlo": "uzivatel",
         "jmeno_letadlo": "Letadlo"
+    },
+    {
+        "tomik": "36d0a0952d9c5eef6ed81f9d6d00ec1e0d44e3c6976b4b4b730390d626ffb647",
+        "role_tomik": "uzivatel",
+        "jmeno_tomik": "Tomik"
+    },
+    {
+        "severni_vez": "a5ccb1c538e34663a658b1be28b16455ee5285efb10e6f1d4caba1f69ec9782b",
+        "role_severni_vez": "admin",
+        "jmeno_severni_vez": "Severní věž"
     }
 ]
