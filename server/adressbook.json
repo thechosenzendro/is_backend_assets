@@ -1,1 +1,20 @@
-[{"type":"so","tituljmenoprijmeni":"Tomik"},{"type":"po","nazev":"fjfj","adresa":"lol"},{"type":"so","tituljmenoprijmeni":"jojo"}]
+[
+    {
+        "type": "so",
+        "id": 70704825,
+        "tituljmenoprijmeni": "lol",
+        "bydliste": "haha"
+    },
+    {
+        "type": "so",
+        "id": 66379767,
+        "tituljmenoprijmeni": "haha",
+        "bydliste": "gg"
+    },
+    {
+        "type": "po",
+        "id": 79351244,
+        "nazev": "lolololol",
+        "adresa": "schutzschafel"
+    }
+]
