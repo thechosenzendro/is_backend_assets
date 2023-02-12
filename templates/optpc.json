@@ -108,6 +108,11 @@
         "Předáno povolení stavby včetně nabytí právní moci stavebníkovi",
         "Odeslána PD včetně inženýringu ve formátu PDF MP",
         "Odeslána PD včetně inženýringu ve formátu PDF stavebníkovi",
-        "Ukončení a archivace zakázky"
+        "Ukončení a archivace zakázky",
+        "Vyjádření k PD - Obec",
+        "Vyjádření k existenci sítí - Obec",
+        "Vyjádření k existenci sítí - Vodovod",
+        "Vyjádření k PD Povodí",
+        "Vyjádření k PD MO"
     ]
 }
