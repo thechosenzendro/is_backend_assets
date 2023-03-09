@@ -1,1 +1,14 @@
-[{"martinzaoral":"03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4","role_martinzaoral":"admin","jmeno_martinzaoral":"Martin Zaoral","state_martinzaoral":"normal"},{"l":"07123e1f482356c415f684407a3b8723e10b2cbbc0b8fcd6282c49d37c9c1abc","role_l":"admin","jmeno_l":"Testovací uživatel L","state_l":"normal"},{"adamzaoral":"532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25","role_adamzaoral":"admin","jmeno_adamzaoral":"Adam Zaoral","state_adamzaoral":"normal"},{"arr":"32a2fe91c31be6c9619370221e0effaa579dc8b49fe9173c48632a8a448b0e40","role_arr":"admin","jmeno_arr":"ARR","state_arr":"normal"}]
+[
+    {
+        "martinzaoral": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "role_martinzaoral": "admin",
+        "jmeno_martinzaoral": "Martin Zaoral",
+        "state_martinzaoral": "normal"
+    },
+    {
+        "adamzaoral": "b5aaac8d09b07e1ff00c2df3895c5b470fdea2ee9a2ca249423e76e1550003f2",
+        "role_adamzaoral": "admin",
+        "jmeno_adamzaoral": "Adam Zaoral",
+        "state_adamzaoral": "normal"
+    }
+]
