@@ -529,3 +529,136 @@
 (20.2.2023) [18:05:20] Data poslána: adressbook.json
 (20.2.2023) [18:13:29] Data poslána: adressbook.json
 (20.2.2023) [18:13:34] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [19:33:24] ______________Inicializace MZISAPI______________
+(9.3.2023) [19:33:24] Zálohování funkční
+(9.3.2023) [19:33:24] HTTPS API připraveno na portu 8080
+(9.3.2023) [19:33:24] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [19:33:28] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [19:33:48] Autorizační request přijat.
+(9.3.2023) [19:33:48] loginData přečtena.
+(9.3.2023) [19:33:48]  Uživatel adamzaoral se snaží přihlásit. Povedlo se?: true
+(9.3.2023) [19:33:48] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [19:33:48] Template poslán: odberatele.json
+(9.3.2023) [19:33:50] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [19:33:50] Zakázka poslána: 22001
+(9.3.2023) [19:33:50] Zakázka poslána: 22001
+(9.3.2023) [19:33:54] Zakázka poslána: 22001
+(9.3.2023) [19:33:55] Zakázka poslána: 22001
+(9.3.2023) [19:33:55] Template poslán: volitelnekonstrukce.html
+(9.3.2023) [19:34:00] Zakázka poslána: 22001
+(9.3.2023) [19:34:01] Zakázka poslána: 22001
+(9.3.2023) [19:34:01] Template poslán: volitelnekonstrukce.html
+(9.3.2023) [19:35:11] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [19:35:11] Zakázka poslána: 22001
+(9.3.2023) [19:35:11] Zakázka poslána: 22001
+(9.3.2023) [19:35:14] Zakázka poslána: 22001
+(9.3.2023) [19:35:15] Zakázka poslána: 22001
+(9.3.2023) [19:35:16] Zakázka poslána: 22001
+(9.3.2023) [19:35:17] Template poslán: podkladyproinzenyring.html
+(9.3.2023) [19:45:34] ______________Inicializace MZISAPI______________
+(9.3.2023) [19:45:34] Zálohování funkční
+(9.3.2023) [19:45:34] Start zálohy
+(9.3.2023) [19:45:34] Konec zálohy
+(9.3.2023) [19:45:34] HTTPS API připraveno na portu 8080
+(9.3.2023) [19:45:34] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [20:16:14] ______________Inicializace MZISAPI______________
+(9.3.2023) [20:16:14] Zálohování funkční
+(9.3.2023) [20:16:14] Start zálohy
+(9.3.2023) [20:16:15] Konec zálohy
+(9.3.2023) [20:16:15] HTTPS API připraveno na portu 8080
+(9.3.2023) [20:16:15] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [20:28:50] ______________Inicializace MZISAPI______________
+(9.3.2023) [20:28:50] Zálohování funkční
+(9.3.2023) [20:28:50] Start zálohy
+(9.3.2023) [20:28:58] Konec zálohy
+(9.3.2023) [20:28:58] HTTPS API připraveno na portu 8080
+(9.3.2023) [20:28:58] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [20:38:19] ______________Inicializace MZISAPI______________
+(9.3.2023) [20:38:19] Zálohování funkční
+(9.3.2023) [20:38:19] Start zálohy
+(9.3.2023) [20:38:20] Konec zálohy
+(9.3.2023) [20:38:20] HTTPS API připraveno na portu 8080
+(9.3.2023) [20:38:20] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [20:39:18] ______________Inicializace MZISAPI______________
+(9.3.2023) [20:39:18] Zálohování funkční
+(9.3.2023) [20:39:18] Start zálohy
+(9.3.2023) [20:39:19] Konec zálohy
+(9.3.2023) [20:39:19] HTTPS API připraveno na portu 8080
+(9.3.2023) [20:39:19] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [20:39:45] ______________Inicializace MZISAPI______________
+(9.3.2023) [20:39:45] Zálohování funkční
+(9.3.2023) [20:39:45] Start zálohy
+(9.3.2023) [20:39:45] Konec zálohy
+(9.3.2023) [20:39:45] HTTPS API připraveno na portu 8080
+(9.3.2023) [20:39:45] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [20:40:12] Zakázka poslána: 22001
+(9.3.2023) [20:40:18] Zakázka poslána: 22001
+(9.3.2023) [20:40:25] ______________Inicializace MZISAPI______________
+(9.3.2023) [20:40:25] Zálohování funkční
+(9.3.2023) [20:40:25] Start zálohy
+(9.3.2023) [20:40:25] Konec zálohy
+(9.3.2023) [20:40:25] HTTPS API připraveno na portu 8080
+(9.3.2023) [20:40:25] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:01:06] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:01:06] Zálohování funkční
+(9.3.2023) [21:01:06] Start zálohy
+(9.3.2023) [21:01:06] Konec zálohy
+(9.3.2023) [21:01:06] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:01:06] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:05:32] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:05:32] Zálohování funkční
+(9.3.2023) [21:05:32] Start zálohy
+(9.3.2023) [21:05:32] Konec zálohy
+(9.3.2023) [21:05:32] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:05:32] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:08:59] Zakázka poslána: 22001
+(9.3.2023) [21:09:02] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:09:02] Zálohování funkční
+(9.3.2023) [21:09:02] Start zálohy
+(9.3.2023) [21:09:02] Konec zálohy
+(9.3.2023) [21:09:02] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:09:02] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:10:42] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:10:42] Zálohování funkční
+(9.3.2023) [21:10:42] Start zálohy
+(9.3.2023) [21:10:51] Konec zálohy
+(9.3.2023) [21:10:51] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:10:51] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:30:52] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:30:52] Zálohování funkční
+(9.3.2023) [21:30:52] Start zálohy
+(9.3.2023) [21:30:52] Konec zálohy
+(9.3.2023) [21:30:52] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:30:53] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:31:09] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:31:10] Zálohování funkční
+(9.3.2023) [21:31:10] Start zálohy
+(9.3.2023) [21:31:12] Konec zálohy
+(9.3.2023) [21:31:12] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:31:12] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:32:15] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:32:15] Zálohování funkční
+(9.3.2023) [21:32:15] Start zálohy
+(9.3.2023) [21:32:15] Konec zálohy
+(9.3.2023) [21:32:15] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:32:15] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:32:21] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:32:21] Zálohování funkční
+(9.3.2023) [21:32:21] Start zálohy
+(9.3.2023) [21:32:21] Konec zálohy
+(9.3.2023) [21:32:21] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:32:21] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:32:32] Zakázka poslána: 22001
+(9.3.2023) [21:32:37] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:32:37] Zálohování funkční
+(9.3.2023) [21:32:37] Start zálohy
+(9.3.2023) [21:32:39] Konec zálohy
+(9.3.2023) [21:32:39] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:32:39] Testovací HTTP API připraveno na portu 8081
+(9.3.2023) [21:34:05] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [21:34:05] Template poslán: odberatele.json
+(9.3.2023) [21:34:17] Ping zaznamenán z IP Adresy ::1
+(9.3.2023) [21:36:12] ______________Inicializace MZISAPI______________
+(9.3.2023) [21:36:12] Zálohování funkční
+(9.3.2023) [21:36:12] HTTPS API připraveno na portu 8080
+(9.3.2023) [21:36:12] Testovací HTTP API připraveno na portu 8081

@@ -1,1 +1,20 @@
-{"stavebnici":["&","&","2"],"provedenecinnosti":[],"inzenyringdata":{"uzemneplanovaciinformace":[],"vyjadrenioexistencisiti":[],"posudky":[],"zadostopripojenikds":[],"spravcisiti-souhlasspd":[],"vyjadrenikpd":[],"sjezdnapozemek":[],"vodopravniurad":[],"smlouvaopravustavbynacizimpozemku":[],"souhlassouseduspovolenimstavby":[],"stavebniurad":[]},"stavebnikzadresare3":{"id":"45449874"}}
+{
+    "stavebnici": [
+        "&",
+        "&"
+    ],
+    "provedenecinnosti": [],
+    "inzenyringdata": {
+        "uzemneplanovaciinformace": [],
+        "vyjadrenioexistencisiti": [],
+        "posudky": [],
+        "zadostopripojenikds": [],
+        "spravcisiti-souhlasspd": [],
+        "vyjadrenikpd": [],
+        "sjezdnapozemek": [],
+        "vodopravniurad": [],
+        "smlouvaopravustavbynacizimpozemku": [],
+        "souhlassouseduspovolenimstavby": [],
+        "stavebniurad": []
+    }
+}
